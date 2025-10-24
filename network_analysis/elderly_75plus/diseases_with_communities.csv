@@ -1,0 +1,1518 @@
+disease_id,disease_name,community,degree,clustering
+320128,Essential hypertension,0,1381,0.10043446777697321
+432867,Hyperlipidemia,0,1300,0.11226031858826316
+4144111,Gastroesophageal reflux disease without esophagitis,0,856,0.21060283106520195
+438485,Postoperative state,0,796,0.23521064441705383
+4193704,Type 2 diabetes mellitus without complication,0,788,0.2390946794032469
+436096,Chronic pain,0,744,0.2507489254547823
+436230,Blood chemistry abnormal,0,673,0.30254988325196347
+194133,Low back pain,0,653,0.2993827450464585
+4192174,Illness,0,653,0.28601358524600945
+4223659,Fatigue,0,632,0.3157836666733535
+433316,Dizziness and giddiness,0,597,0.33869009476914774
+134736,Backache,0,549,0.3553773948652494
+372448,Loss of consciousness,0,546,0.382861175521726
+4171917,Localized edema,0,535,0.3715565823094963
+433736,Obesity,0,509,0.3955339325216961
+437827,Pure hypercholesterolemia,0,503,0.39763807592690864
+75909,Disorder of bone,0,487,0.3919520707109117
+78232,Shoulder joint pain,0,479,0.4204453140695836
+192450,Retention of urine,0,475,0.4335420830557406
+140673,Hypothyroidism,0,463,0.4103671706263499
+198803,Benign prostatic hyperplasia,0,456,0.45636205899363796
+4282096,"Major depression, single episode",0,451,0.43123922148312394
+140214,Eruption,0,449,0.4573954024817054
+4079750,Osteoarthritis of knee,0,447,0.4332520741164314
+376208,Disorder of soft tissue,0,444,0.4592764321883961
+4170554,Hip pain,0,438,0.4342915060133956
+24134,Neck pain,0,436,0.43647579879784876
+315078,Palpitations,0,415,0.4716023514347244
+443211,Benign prostatic hyperplasia with outflow obstruction,0,398,0.4973228864726656
+4180628,Disorder of body system,0,396,0.5138089758342923
+442077,Anxiety disorder,0,393,0.47887781066625124
+136788,Spinal stenosis of lumbar region,0,391,0.46249590137058166
+436070,Vitamin D deficiency,0,379,0.49450656838519635
+200843,Finding of frequency of urination,0,378,0.5166238614514477
+4134121,Lumbar radiculopathy,0,354,0.5004241289351963
+438720,Mixed hyperlipidemia,0,348,0.5088277187054887
+439147,Amnesia,0,337,0.5230676840469125
+257011,Acute upper respiratory infection,0,328,0.5738047288729768
+4346975,Lumbar spondylosis,0,321,0.5302180685358255
+135930,Musculoskeletal finding,0,302,0.6363556357395876
+4117695,Pain in left lower limb,0,299,0.6209063769612354
+4110815,"Sensorineural hearing loss, bilateral",0,295,0.5905223106191629
+601619,Pain of right knee joint,0,293,0.58240216933938
+40304526,Nocturia,0,293,0.6008929823741176
+4150125,Persistent pain following procedure,0,285,0.5781319495922906
+442752,Muscle pain,0,280,0.603763440860215
+313459,Sleep apnea,0,274,0.5966418010213631
+314754,Wheezing,0,271,0.6238622386223862
+4115171,Pain in right lower limb,0,268,0.6374867236849461
+4174262,Polyneuropathy,0,261,0.6386383731211317
+4092743,Unsteady when standing,0,258,0.6457635809730643
+74130,Thoracic spondylosis without myelopathy,0,251,0.6253386454183267
+601622,Pain of left knee region,0,248,0.6076139480214183
+4079749,Osteoarthritis of hip,0,246,0.6418782147005143
+4059015,Falls,0,245,0.6383405821344932
+372409,Sciatica,0,235,0.6703400618294235
+77074,Joint pain,0,233,0.6245745153174486
+193326,Urge incontinence of urine,0,232,0.6587177190625466
+194406,Urinary tract obstruction,0,231,0.6581215885563712
+432795,Traumatic or non-traumatic injury,0,223,0.6360037167212055
+77079,Spinal stenosis,0,219,0.6950274391521093
+73840,"Localized, primary osteoarthritis of the shoulder region",0,217,0.71415770609319
+137053,Seborrheic dermatitis,0,215,0.6901977830906325
+442793,Complication due to diabetes mellitus,0,214,0.6949234346891316
+4042728,Blood glucose abnormal,0,210,0.7007974481658692
+45768910,Uncomplicated asthma,0,207,0.5755358566671357
+137989,Abnormal results of cardiovascular function studies,0,206,0.7315652379824769
+4261842,Sick sinus syndrome,0,205,0.7151123864179818
+78508,Arthralgia of the ankle and/or foot,0,203,0.71550504804175
+195083,Left lower quadrant pain,0,197,0.7399254117890811
+200845,Urgent desire to urinate,0,197,0.733191753858904
+374366,Sensorineural hearing loss,0,196,0.7058608058608059
+443257,Swelling / lump finding,0,190,0.7294346978557504
+375545,Cataract,0,184,0.614991684485626
+4155909,Anesthesia of skin,0,184,0.7528510334996437
+40481042,Acute diastolic heart failure,0,182,0.8049298767530811
+4329041,Pain,0,181,0.7383670963781461
+440029,Viral disease,0,178,0.7231638418079096
+443769,Degeneration of lumbar intervertebral disc,0,176,0.7729220779220779
+140821,Spasm,0,176,0.7861038961038961
+25297,Acute pharyngitis,0,176,0.7364285714285714
+4093347,Stool finding,0,173,0.7218712192498992
+4001450,Lumbago with sciatica,0,171,0.7095975232198143
+443731,Renal disorder due to type 2 diabetes mellitus,0,168,0.8035357855717137
+4271013,Melanocytic nevus,0,165,0.777679231337768
+4009585,Abnormal urine,0,165,0.7489283074648928
+75650,Proteinuria,0,160,0.800314465408805
+4115991,Knee joint effusion,0,159,0.7689674388981769
+378416,Retinal disorder,0,159,0.7380781784889738
+72418,Scoliosis deformity of spine,0,159,0.7102937664198711
+4308509,Impaired fasting glycemia,0,150,0.7797762863534675
+374034,Visual disturbance,0,149,0.7310901505532378
+4119307,Neurogenic claudication,0,146,0.7516296646197449
+36713107,Lumbar spondylolisthesis,0,144,0.7978826728826729
+435508,Adrenal cortical hypofunction,0,142,0.8152032763959645
+37018854,Hematuria co-occurrent and due to acute cystitis,0,142,0.8501648186994306
+4068482,Prolapsed lumbar intervertebral disc,0,140,0.7746145940390544
+439795,Minimal cognitive impairment,0,140,0.7847893114080164
+439297,Nuclear senile cataract,0,137,0.6665951051953628
+81106,Acquired genu varum,0,136,0.8423747276688454
+201340,Gastritis,0,135,0.7368711995577667
+4285898,Polyp of colon,0,131,0.723429242513212
+436785,Spinal stenosis in cervical region,0,127,0.6575428071491064
+4182562,Lower abdominal pain,0,124,0.8292682926829268
+435224,Leukopenia,0,124,0.7954366640440598
+74728,Synovitis and tenosynovitis,0,122,0.8722395339384907
+374367,Bilateral hearing loss,0,122,0.8634331391410378
+4248728,Snoring,0,116,0.837631184407796
+321596,Peripheral venous insufficiency,0,114,0.8837137090513896
+141104,Intervertebral disc disorder of lumbar region with myelopathy,0,110,0.8325271059216013
+77630,Disorder of shoulder,0,106,0.9036837376460019
+74132,Degeneration of lumbosacral intervertebral disc,0,106,0.8788858939802336
+3655355,Erectile dysfunction,0,103,0.8991052731772321
+4208390,Inflammation of sacroiliac joint,0,100,0.8763636363636363
+133810,Hyperparathyroidism due to renal insufficiency,0,98,0.9042709867452136
+435524,Sleep disorder,0,98,0.8617715127288028
+319034,Hypertensive heart disease without congestive heart failure,0,97,0.8552405498281787
+197006,Residual hemorrhoidal skin tags,0,96,0.8302631578947368
+37206607,Overactive bladder,0,95,0.8736842105263158
+4116166,Elbow joint pain,0,94,0.8490048043925875
+442306,Adjustment disorder with depressed mood,0,94,0.9080301990391215
+4077577,Moderate recurrent major depression,0,93,0.8506311360448808
+380094,Carpal tunnel syndrome,0,93,0.8796166432912575
+4209423,Nicotine dependence,0,91,0.884004884004884
+434490,Chill,0,88,0.8834900731452455
+378427,Tear film insufficiency,0,87,0.6885859395883454
+604801,Pain of knee region,0,87,0.8952151831061214
+437246,Vitamin B deficiency,0,85,0.853781512605042
+4344500,Impingement syndrome of shoulder region,0,85,0.9450980392156862
+379832,Mixed conductive AND sensorineural hearing loss,0,83,0.9227152512488981
+141095,Acne,0,82,0.934056007226739
+134159,Precordial pain,0,81,0.9212962962962963
+4226991,Xerostomia,0,80,0.9427215189873418
+443524,Mixed urinary incontinence,0,79,0.8727685816293411
+432588,Megaloblastic anemia due to vitamin B-12 deficiency,0,78,0.9010989010989011
+30437,Gastro-esophageal reflux disease with esophagitis,0,78,0.8548118548118548
+135526,Spinal cord disease,0,77,0.7583732057416268
+4264617,Foot-drop,0,77,0.9364319890635681
+37016768,Autonomic neuropathy due to type 2 diabetes mellitus,0,77,0.9624060150375939
+4171919,"Localized swelling, mass and lump, lower limb",0,77,0.9104579630895421
+436676,Posttraumatic stress disorder,0,74,0.9000370233246946
+138841,Disorder of sacrum,0,74,0.9215105516475379
+76153,Low compliance bladder,0,73,0.8713850837138508
+4166902,Scalp laceration,0,72,0.8685446009389671
+80809,Rheumatoid arthritis,0,71,0.8527162977867203
+433753,Alcohol abuse,0,68,0.8582089552238806
+762296,Pain in right hand,0,68,0.8551360842844601
+201078,Atrophic vaginitis,0,67,0.8815015829941203
+46286594,Problem related to lifestyle,0,67,0.9226594301221167
+4228802,Mild recurrent major depression,0,67,0.945273631840796
+80008,Breakage of joint prosthesis,0,66,0.9370629370629371
+4236484,Paresthesia,0,65,0.9495192307692307
+377574,Presbycusis,0,65,0.98125
+4031164,Non-scarring alopecia,0,65,0.9028846153846154
+198520,Lumbar spondylosis with myelopathy,0,64,0.8571428571428571
+4041285,Urogenital finding,0,62,1.0
+137275,Disorder of muscle,0,61,0.8693989071038252
+26662,Testicular hypofunction,0,61,0.8590163934426229
+140168,Psoriasis,0,60,0.9124293785310734
+133834,Atopic dermatitis,0,59,0.950905902980713
+441417,Incoordination,0,59,0.9351256575102279
+320420,Vitreous degeneration,0,58,0.8608590441621294
+192683,Uterovaginal prolapse,0,57,0.8107769423558897
+72993,"Localized, primary osteoarthritis",0,57,0.8677944862155389
+45757591,Osteophyte of bone,0,57,0.9223057644110275
+4282316,Recurrent major depression,0,57,0.9505012531328321
+435243,Alcohol dependence,0,56,0.9344155844155844
+435220,Severe recurrent major depression without psychotic features,0,56,0.9675324675324676
+4344387,Bone necrosis,0,56,0.9512987012987013
+4115170,Pain in right arm,0,56,0.9064935064935065
+312349,Venous varices,0,56,0.9668831168831169
+379010,Epiretinal membrane,0,54,0.9343116701607268
+380733,Otalgia,0,54,0.944095038434661
+40480893,Nonspecific tuberculin test reaction,0,54,0.9301187980433263
+4195085,Nasal congestion,0,54,0.9315164220824598
+433031,Hallucinations,0,53,0.9310595065312046
+4172432,Hyperpigmentation of skin,0,52,0.8506787330316742
+4245252,Raised prostate specific antigen,0,51,0.8549019607843137
+4204199,Hand pain,0,51,0.952156862745098
+26823,Oral phase dysphagia,0,51,0.7968627450980392
+73754,Restless legs,0,50,0.9306122448979591
+75576,Irritable bowel syndrome,0,49,0.8945578231292517
+40484571,Disorder of joint of shoulder region,0,48,0.9202127659574468
+444100,Mood disorder,0,48,0.9468085106382979
+4027396,Peripheral neuritis,0,46,0.8144927536231884
+436665,Bipolar disorder,0,46,0.9352657004830918
+440083,Acute stress disorder,0,45,0.9151515151515152
+4158910,Secondary malignant neoplasm of unknown site,0,44,0.9090909090909091
+4166125,"Localized swelling, mass and lump, neck",0,44,0.7938689217758985
+4216397,Nerve root disorder,0,44,0.927061310782241
+43021227,Allergic condition,0,44,0.9397463002114165
+374044,Ptosis of eyelid,0,44,0.8319238900634249
+437176,Late effect of accidental fall,0,44,0.8911205073995772
+4146581,Mild intermittent asthma,0,43,0.8427464008859358
+254443,Sjögren's syndrome,0,42,0.8745644599303136
+380111,Acute atopic conjunctivitis,0,42,0.8606271777003485
+374313,Neoplasm of uncertain behavior of soft tissues,0,41,0.9365853658536586
+439005,Chronic alcoholism in remission,0,41,1.0
+4138617,Psychophysiologic insomnia,0,41,0.9902439024390244
+320425,Heart block,0,41,1.0
+255919,Finding of head and neck region,0,41,0.9402439024390243
+314962,Raynaud's disease,0,40,0.9512820512820512
+4083556,Seronegative rheumatoid arthritis,0,40,0.8833333333333333
+4012368,Increased frequency of urination,0,40,0.9025641025641026
+4167097,Spondylolisthesis,0,39,0.9068825910931174
+134668,Chronic maxillary sinusitis,0,39,0.9500674763832658
+4152592,Lumbosacral stenosis,0,38,0.8506401137980085
+4084966,Candida infection of genital region,0,38,0.9743954480796586
+81151,Sprain of ankle,0,37,0.9294294294294294
+4224741,Degenerative disorder of macula,0,37,0.9519519519519519
+75865,Disorder of the urinary system,0,37,1.0
+79240,Prosthetic joint dislocation,0,36,1.0
+314131,Degeneration of cervical intervertebral disc,0,36,0.8555555555555555
+320136,Disorder of respiratory system,0,35,0.8840336134453781
+4055201,Angiodysplasia of colon,0,35,1.0
+440360,Pure hyperglyceridemia,0,34,0.9429590017825312
+77631,"Localized, secondary osteoarthritis of the shoulder region",0,34,0.9358288770053476
+4168701,"Localized swelling, mass and lump, upper limb",0,34,0.8680926916221033
+433813,Bladder neck obstruction,0,33,0.9109848484848485
+78472,Microscopic hematuria,0,33,0.8996212121212122
+4300092,Cannabis-induced organic mental disorder,0,33,0.9299242424242424
+4115169,Pain in left arm,0,32,0.9637096774193549
+43530727,Spontaneous cerebral hemorrhage,0,31,0.8043010752688172
+46272380,Chronic gout without tophus,0,30,0.9816091954022989
+4008556,Pseudocyst of pancreas,0,30,0.9218390804597701
+35622958,Disorder in remission,0,30,1.0
+4069320,Pseudarthrosis after fusion or arthrodesis,0,30,1.0
+77030,Disorder of breast,0,30,0.9126436781609195
+75036,"Localized, primary osteoarthritis of the hand",0,29,0.9605911330049262
+4137468,Abscess of skin and/or subcutaneous tissue,0,28,0.9920634920634921
+321661,Spinal stenosis of thoracic region,0,27,0.9743589743589743
+318169,Varicose veins of lower extremity,0,27,0.9629629629629629
+4141454,Recurrent major depression in partial remission,0,27,1.0
+4334801,Surgical site infection,0,27,0.9829059829059829
+437498,Primary malignant neoplasm of tongue,0,26,0.7292307692307692
+4176892,Cortical hemorrhage,0,26,0.8615384615384616
+4291304,Dermatosis of eyelid,0,26,1.0
+4164639,Blind left eye,0,26,1.0
+444444,Benign neoplasm of transverse colon,0,25,0.7833333333333333
+372604,Movement disorder,0,25,0.91
+42537304,Hydronephrosis due to calculus of kidney and ureter,0,25,0.9266666666666666
+434169,Abnormal findings on diagnostic imaging of breast,0,25,0.9833333333333333
+376124,Pinguecula,0,25,1.0
+4286676,Acquired deformity of rib,0,25,1.0
+440814,Torticollis,0,25,0.8666666666666667
+193322,Right lower quadrant pain,0,25,0.83
+608177,Myelopathy due to cervical spondylosis,0,24,0.782608695652174
+25572,Disorder of salivary gland,0,24,0.9782608695652174
+4138760,Exacerbation of intermittent asthma,0,24,0.894927536231884
+4156114,Primary malignant neoplasm of border of tongue,0,23,0.8063241106719368
+73571,Pathological fracture,0,23,1.0
+196724,Disorder of diaphragm,0,23,0.9762845849802372
+26727,Hematemesis,0,22,0.9913419913419913
+74125,Inflammatory polyarthropathy,0,22,1.0
+198202,Cystocele,0,22,0.9826839826839827
+79936,Polyuria,0,22,0.9264069264069265
+443776,Brachial radiculitis,0,21,1.0
+442104,Benign neoplasm of descending colon,0,21,0.8571428571428571
+4306923,Chronic idiopathic constipation,0,21,1.0
+4153359,Arthritis of spine,0,21,1.0
+137548,Cervical radiculopathy,0,21,0.9809523809523809
+373852,Neuralgia,0,21,1.0
+138387,Thyrotoxicosis,0,21,1.0
+374923,Bell's palsy,0,20,0.8947368421052632
+608180,Radiculopathy due to cervical spondylosis,0,20,0.9789473684210527
+4056006,Contusion of anterior abdominal wall,0,20,0.9947368421052631
+74635,Lumbosacral radiculopathy,0,20,0.968421052631579
+4302739,Thigh pain,0,20,1.0
+4002818,Spasm of back muscles,0,20,1.0
+4117686,Rheumatoid arthritis of multiple joints,0,19,1.0
+199876,Prolapse of female genital organs,0,19,0.9298245614035088
+36684613,Dermatochalasis of right upper eyelid,0,19,0.9649122807017544
+378135,Facial nerve disorder,0,19,0.9766081871345029
+36684676,Dermatochalasis of left upper eyelid,0,19,0.9649122807017544
+4266864,Abscess of neck,0,19,1.0
+199856,Varicose veins of lower extremity with inflammation,0,18,0.9738562091503268
+4001171,Liver cell carcinoma,0,18,1.0
+4164640,Blind right eye,0,18,1.0
+80767,Breast lump,0,18,1.0
+4275889,Visual hallucinations,0,18,0.9869281045751634
+40483342,Acute exacerbation of bronchiectasis,0,17,1.0
+4184423,Scoliosis of lumbar spine,0,17,1.0
+4094822,Foreign body in respiratory tract,0,17,1.0
+4265749,Meibomian gland dysfunction,0,16,1.0
+37109050,Meibomian gland dysfunction of right eye,0,16,1.0
+436231,Abnormal findings diagnostic imaging of liver+biliary tract,0,16,0.9333333333333333
+439676,Coronavirus infection,0,16,1.0
+4204781,Collapse of lumbar vertebra,0,16,1.0
+443733,Disorder of eye due to type 2 diabetes mellitus,0,15,1.0
+42537744,Transplanted cornea present,0,15,1.0
+437703,Closed fracture of intracapsular section of femur,0,15,1.0
+37205080,Disorder due to and following drug poisoning,0,15,0.9333333333333333
+199860,Hernia of abdominal cavity,0,15,0.9809523809523809
+437116,Closed fracture of distal end of radius,0,15,1.0
+4112852,Benign lipomatous tumor,0,14,1.0
+43022059,Disease of non-coronary systemic artery,0,14,1.0
+254068,Disorder of upper respiratory system,0,14,1.0
+4308696,Pain due to internal prosthetic device,0,14,1.0
+4025215,Emotional state finding,0,14,0.978021978021978
+443236,Hypnotic or anxiolytic dependence,0,13,1.0
+31602,Disorder of the larynx,0,13,1.0
+81931,Psoriasis with arthropathy,0,13,1.0
+759860,Cellulitis of left upper limb,0,13,1.0
+4031106,Melanocytic nevus of face,0,13,1.0
+4057953,Acute gastric ulcer with perforation,0,13,1.0
+4201705,Sequela of disorder,0,13,1.0
+437220,Primary malignant neoplasm of ventral surface of tongue,0,12,0.9393939393939394
+375519,Alcohol withdrawal syndrome,0,12,1.0
+436677,Adjustment disorder,0,12,1.0
+40481089,Embolism from thrombosis of vein of lower extremity,0,12,1.0
+436043,Overlapping malignant neoplasm of tongue,0,12,0.9393939393939394
+4290976,Temporal arteritis,0,12,1.0
+36712821,Postprocedural infection,0,12,1.0
+4211231,Panic disorder without agoraphobia,0,12,1.0
+4091901,Aberrant premature complexes,0,12,1.0
+4151134,Cyst of pancreas,0,12,1.0
+43531028,Mononeuropathy of lower limb,0,12,1.0
+139906,Intervertebral disc disorder of cervical region with myelopathy,0,12,1.0
+444130,Injury of foot,0,12,1.0
+4148906,Spontaneous subarachnoid hemorrhage,0,11,1.0
+4204991,Lichen simplex chronicus,0,11,1.0
+4035611,Seropositive rheumatoid arthritis,0,11,0.9818181818181818
+4069935,Idiopathic scoliosis,0,11,1.0
+381295,Senile cataract,0,11,0.9818181818181818
+381021,Lagophthalmos,0,11,1.0
+432895,Cortical senile cataract,0,11,1.0
+4230641,Chronic pansinusitis,0,11,1.0
+140708,Myelopathy due to another disorder,0,10,1.0
+444457,Benign neoplasm of rectum,0,10,1.0
+40483134,Strain of muscle and/or tendon of thigh,0,10,0.9777777777777777
+4243445,Benign neoplasm of pancreas,0,10,1.0
+45768964,Uncomplicated moderate persistent asthma,0,10,0.9555555555555556
+4196433,Senile dementia of the Lewy body type,0,10,1.0
+443412,Type 1 diabetes mellitus without complication,0,9,1.0
+77965,Acquired trigger finger,0,9,1.0
+379801,Trigeminal neuralgia,0,9,1.0
+4185356,Kyphosis of thoracic spine,0,9,1.0
+44783760,Mammographic calcification of breast,0,9,1.0
+4176898,Complication of urinary catheter,0,9,1.0
+45772786,Cerebral infarction due to embolism of middle cerebral artery,0,9,1.0
+4058219,"Abrasion, forearm area",0,9,1.0
+257583,Allergic bronchopulmonary aspergillosis,0,8,1.0
+436042,Primary malignant neoplasm of anterior two-thirds of tongue,0,8,1.0
+258375,Overlapping malignant neoplasm of bronchus and lung,0,8,1.0
+435506,Benign neoplastic disease,0,8,1.0
+435262,Primary open angle glaucoma,0,8,0.9642857142857143
+77066,Derangement of medial meniscus,0,8,1.0
+4063581,Drug-induced systemic lupus erythematosus,0,8,1.0
+444211,Disorder of thigh,0,8,1.0
+201603,Disorder of teeth AND/OR supporting structures,0,8,1.0
+443344,Barrett's esophagus,0,8,1.0
+134681,Diffuse spasm of esophagus,0,8,1.0
+4134603,Vascular disorder of intestine,0,8,1.0
+316084,Lymphadenitis,0,8,1.0
+437584,Ataxia,0,8,1.0
+320342,Secondary malignant neoplasm of lymph nodes of multiple sites,0,8,1.0
+4098597,Waldenström macroglobulinemia,0,7,1.0
+376382,Tension-type headache,0,7,1.0
+443200,Nervous system symptoms,0,7,1.0
+36712827,Dehiscence of external surgical incision wound,0,7,1.0
+43021410,Breakage of internal fixation device,0,7,1.0
+4242816,Benign neoplasm of pituitary gland,0,7,1.0
+4049623,"Moderate major depression, single episode",0,7,1.0
+81878,Benign paroxysmal positional vertigo,0,7,1.0
+4234480,Arteriovenous fistula,0,7,1.0
+73574,Nonunion of fracture,0,7,1.0
+4042836,Disorder of head,0,7,1.0
+46270470,Primary chronic gout without tophus of ankle and/or foot,0,7,1.0
+372309,Mononeuritis,0,7,0.8095238095238095
+200445,Chronic prostatitis,0,7,1.0
+441561,Low tension glaucoma,0,6,1.0
+40490888,Herniation of rectum into vagina,0,6,0.8666666666666667
+4322945,Spinal cord compression,0,6,0.9333333333333333
+437064,Chondrocalcinosis,0,6,1.0
+40305987,Delayed union of fracture,0,6,1.0
+194403,Obstructed diaphragmatic hernia,0,6,1.0
+257581,Acute asthma,0,6,1.0
+4194160,Thyroid function tests abnormal,0,6,1.0
+372925,Cholesteatoma,0,6,1.0
+4260194,Photophobia,0,6,1.0
+4168796,Muscle strain,0,6,1.0
+439620,Late effect of accidental injury,0,6,1.0
+440072,Hypogammaglobulinemia,0,6,1.0
+376115,Cystoid macular retinal degeneration,0,5,1.0
+437828,Disorder of calcium metabolism,0,5,1.0
+193874,Nocturnal enuresis,0,5,1.0
+4303401,Finding reported by subject or history provider,0,5,1.0
+4311159,Midline cystocele,0,5,0.8
+439404,Primary malignant neoplasm of oral cavity,0,5,1.0
+4130851,Injury of upper extremity,0,5,1.0
+255348,Polymyalgia rheumatica,0,5,1.0
+440142,Disorder of mediastinum,0,4,1.0
+4160055,Clonic hemifacial spasm,0,4,1.0
+4234788,Irritable bowel syndrome characterized by alternating bowel habit,0,4,1.0
+141663,Osteomyelitis,0,4,1.0
+443730,Disorder of nervous system due to diabetes mellitus,0,4,1.0
+4216644,Rectal polyp,0,4,1.0
+4219836,Contusion of ocular adnexa and periocular tissues,0,4,1.0
+4053600,Open wound of elbow,0,4,1.0
+381290,Ocular hypertension,0,4,1.0
+435802,Blepharospasm,0,4,1.0
+312723,Congenital heart disease,0,4,1.0
+375547,Anisometropia,0,4,1.0
+200051,Primary malignant neoplasm of ovary,0,3,1.0
+441284,Open-angle glaucoma,0,3,1.0
+4297894,Greater trochanteric pain syndrome,0,3,1.0
+42539502,Transplanted kidney present,0,3,1.0
+73008,Enthesopathy,0,3,1.0
+43021250,Complication associated with orthopedic device,0,3,1.0
+4215402,Primary insomnia,0,3,1.0
+45768963,Uncomplicated mild persistent asthma,0,3,1.0
+4311629,Impaired glucose tolerance,0,3,1.0
+40492392,Closed fracture of fibula,0,3,1.0
+441428,Closed fracture of lateral malleolus,0,3,1.0
+316795,Congenital anomaly of peripheral blood vessel,0,3,1.0
+444459,Benign neoplasm of sigmoid colon,0,3,1.0
+440556,Closed transcervical fracture of femur,0,3,1.0
+443608,Bilateral sensory hearing loss,0,2,1.0
+43531003,Essential tremor,0,2,1.0
+381572,Abducens nerve palsy,0,2,1.0
+377877,Esotropia,0,2,1.0
+4193620,"Keratoconjunctivitis sicca, in Sjögren's syndrome",0,2,1.0
+194878,Nodular lymphoma of extranodal AND/OR solid organ site,0,2,1.0
+192836,Primary malignant neoplasm of small intestine,0,1,0.0
+43021779,Hearing loss of left ear,0,1,0.0
+4288370,Severe visual impairment,0,1,0.0
+4067766,Pathologic fracture of bone at site of neoplasm,0,1,0.0
+437677,Abnormal findings on diagnostic imaging of lung,1,1028,0.1648430129689057
+77670,Chest pain,1,950,0.19019910154733516
+75860,Constipation,1,862,0.2177147923285663
+317002,Low blood pressure,1,784,0.25087640420152735
+444070,Tachycardia,1,764,0.24715747291279258
+261880,Atelectasis,1,741,0.26370500054710583
+81902,Urinary tract infectious disease,1,730,0.2662156829584531
+437113,Asthenia,1,690,0.29945520708441137
+435515,Hypo-osmolality and or hyponatremia,1,675,0.301153972964062
+200219,Abdominal pain,1,657,0.296390652262687
+436659,Iron deficiency anemia,1,626,0.3389546325878594
+437663,Fever,1,597,0.3275606219014536
+27674,Nausea and vomiting,1,559,0.3573842178493341
+196523,Diarrhea,1,559,0.374273055443348
+436222,Altered mental status,1,557,0.35798147837205996
+42537748,Acquired absence of organ,1,551,0.36124071935324203
+31967,Nausea,1,540,0.35955473098330243
+435796,Dehydration,1,534,0.3743280561586947
+132797,Sepsis,1,521,0.37773512476007676
+31317,Dysphagia,1,521,0.3790344012992765
+4233565,Severe protein-calorie malnutrition (Gomez: less than 60 percent of standard weight),1,507,0.4075512001933407
+378253,Headache,1,486,0.40875652284586994
+37311319,Hypovolemia,1,480,0.4305932498260264
+438398,Leukocytosis,1,474,0.4014415571671974
+201618,Disorder of intestine,1,473,0.4471996273336439
+4201745,Disorder of digestive system,1,457,0.42857691274137205
+197672,Urinary incontinence,1,456,0.46365914786967416
+4268911,Disorientated,1,441,0.457276850133993
+4000609,Disorder of upper gastrointestinal tract,1,427,0.4512319820562721
+434610,Hyperkalemia,1,397,0.4916673027504262
+80502,Osteoporosis,1,395,0.4148685985992418
+319041,Orthostatic hypotension,1,392,0.5105824938671121
+197988,Generalized abdominal pain,1,382,0.4955682895658985
+375415,Injury of head,1,378,0.5016350188763982
+4182210,Dementia,1,373,0.49117875983741244
+192671,Gastrointestinal hemorrhage,1,365,0.5232575643534547
+440417,Pulmonary embolism,1,362,0.4927227927335058
+4152351,"Abdominal distension, gaseous",1,359,0.5257932494047711
+194081,Acute cystitis,1,358,0.519333990579472
+192963,Disorder of pancreas,1,345,0.48537243006403774
+4164898,Diverticulosis of large intestine without diverticulitis,1,345,0.5017189079878666
+4098604,Hypomagnesemia,1,343,0.5363749509828994
+442165,Loss of appetite,1,337,0.5166207432527907
+319844,Acute ischemic heart disease,1,335,0.5654124586647601
+435788,Disorder of phosphorus metabolism,1,331,0.5819646617229699
+441258,Anemia in neoplastic disease,1,327,0.5259188382957167
+438567,Adult failure to thrive syndrome,1,321,0.5563278816199377
+195562,Hemorrhoids,1,318,0.5672678213598397
+46271075,Acute hypoxemic respiratory failure,1,315,0.5645940754221009
+372892,Metabolic encephalopathy,1,302,0.5902840421552881
+197917,Disorder of biliary tract,1,295,0.5205119335869941
+4058155,Bed-ridden,1,294,0.5896775092289476
+4187218,Pneumonitis due to inhaled substance,1,284,0.5845816951177026
+200528,Ascites,1,284,0.5940128402926392
+132736,Bacteremia,1,284,0.6061066042900513
+4103703,Melena,1,282,0.6450872012316701
+432851,Secondary malignant neoplastic disease,1,274,0.5630598112349937
+199074,Acute pancreatitis,1,273,0.5999245852187028
+197381,Epigastric pain,1,272,0.5860104189277187
+44784631,Pain due to neoplastic disease,1,269,0.5914942018531876
+4090207,Senile asthenia,1,266,0.6592991913746631
+134898,Non-toxic uninodular goiter,1,262,0.6497323857155392
+37311061,COVID-19,1,260,0.6401544401544401
+201337,Disorder of bladder,1,254,0.6387600759391242
+196456,Gallstone,1,250,0.61429718875502
+198263,Right upper quadrant pain,1,248,0.5912890165861303
+199754,Primary malignant neoplasm of pancreas,1,244,0.5888146798893611
+4128329,Menopause present,1,238,0.60419104350601
+79908,Muscle weakness,1,237,0.6581563326896946
+24818,Injury of neck,1,229,0.6908756607676396
+137977,Jaundice,1,225,0.6732142857142858
+201061,Diaphragmatic hernia,1,223,0.6264695188462005
+134765,Cachexia,1,220,0.7293482772934827
+374888,Dementia associated with another disease,1,216,0.674547803617571
+4094683,Chest injury,1,213,0.6450969970768005
+201066,Obstruction of bile duct,1,212,0.6588124832334794
+441408,Vomiting,1,212,0.7194402217651793
+195856,Cholangitis,1,207,0.6687772618545096
+377091,Seizure,1,206,0.67080274686242
+433811,Hydronephrosis,1,202,0.6736121373331363
+4098458,Moderate protein-calorie malnutrition (weight for age 60-74 percent of standard),1,198,0.7038404348049018
+441829,Hyperosmolality and or hypernatremia,1,195,0.7247158339941845
+4041283,General finding of observation of patient,1,195,0.7707110758657151
+433163,Deficiency of macronutrients,1,183,0.7898877079204948
+36714126,Difficulty walking,1,178,0.7583317463340317
+4280354,Nutritional anemia,1,178,0.7306544785120295
+440649,Primary malignant neoplasm of head of pancreas,1,177,0.713597842835131
+192353,Disorder of gallbladder,1,172,0.7362301101591188
+380378,Epilepsy,1,168,0.6996720844026233
+4070750,Drug-induced constipation,1,166,0.7377875136911282
+434613,Generalized anxiety disorder,1,163,0.7075664621676891
+4232337,Valvular endocarditis,1,163,0.8097402105582064
+201620,Kidney stone,1,159,0.6915054533874692
+4201388,Gastrostomy present,1,159,0.7765305310086776
+43530666,Dementia with behavioral disturbance,1,154,0.7597827009591716
+4258683,Fecal impaction,1,153,0.8381492948056416
+78273,Closed fracture of multiple ribs,1,151,0.8067108167770419
+137945,Pressure ulcer stage 2,1,143,0.8014379986210972
+4225273,Chronic gastritis,1,141,0.8
+4145825,Anorectal disorder,1,141,0.7159067882472138
+433968,Candidiasis,1,138,0.7355336930075108
+443535,Infection due to enterococcus,1,137,0.8298626019750966
+437541,Glaucoma,1,137,0.7567625590382139
+137809,Primary malignant neoplasm of female breast,1,135,0.74383637368712
+373478,Presbyopia,1,133,0.8015493278651173
+4310235,Reduced mobility,1,133,0.7769423558897243
+4266809,Diverticular disease,1,130,0.8389982110912343
+197925,Hemorrhage of rectum and anus,1,130,0.8098986285032796
+45770886,Disorder of plasma protein metabolism,1,130,0.7418008348240906
+4288544,Inguinal hernia,1,127,0.8018997625296838
+256449,Bronchiectasis,1,123,0.791150206584033
+3663197,Glaucoma suspect,1,122,0.832136566860859
+201965,Shock,1,122,0.8483945264869259
+75004,Frank hematuria,1,118,0.8471678980153556
+4146209,Iron deficiency,1,110,0.8208507089241034
+197675,Incontinence of feces,1,110,0.9054211843202669
+435510,Hypocalcemia,1,108,0.8255451713395638
+4024561,Pain in lower limb,1,108,0.90619591554171
+4254485,Finding related to attentiveness,1,107,0.8557573620172809
+80951,Candidiasis of urogenital site,1,106,0.8416891284815813
+4067069,Callosity,1,105,0.8432234432234432
+312998,Pain in thoracic spine,1,104,0.813293502613891
+4248429,Gastric ulcer without hemorrhage AND without perforation,1,102,0.881576392933411
+440530,Oropharyngeal dysphagia,1,101,0.763960396039604
+31610,Disorder of esophagus,1,100,0.8496969696969697
+37396146,Gastrointestinal infection,1,100,0.8137373737373738
+4198381,Ulcer of duodenum,1,100,0.8787878787878788
+441969,Radiology result abnormal,1,98,0.87565747948664
+4001664,Intrahepatic bile duct carcinoma,1,97,0.7852233676975945
+4198042,Disorder of bilirubin metabolism,1,96,0.818640350877193
+434500,Closed fracture of neck of femur,1,95,0.7173572228443449
+4245842,Umbilical hernia,1,91,0.8451770451770452
+40481896,Hypertensive urgency,1,87,0.905105586741513
+441536,Mixed acid-base balance disorder,1,87,0.9075113605987704
+196151,Functional disorder of intestine,1,86,0.8943912448700411
+378419,Alzheimer's disease,1,84,0.8752151462994836
+136368,Non-toxic multinodular goiter,1,81,0.8570987654320987
+381551,Polyneuropathy due to drug,1,81,0.7577160493827161
+4004352,Irritant contact dermatitis,1,80,0.9493670886075949
+40484102,Abnormal finding on evaluation procedure,1,80,0.8870253164556962
+434085,Obstruction of duodenum,1,77,0.8793574846206426
+317003,Compression of vein,1,74,0.8893002591632728
+436339,Bacterial infection due to Klebsiella pneumoniae,1,74,0.9052202887819326
+192956,Cholecystitis,1,74,0.8989263235838578
+30753,Esophagitis,1,74,0.8341355053683821
+378425,Blepharitis,1,72,0.9225352112676056
+4168222,"Intra-abdominal and pelvic swelling, mass and lump",1,71,0.7561368209255533
+440329,Herpes zoster without complication,1,71,0.8784708249496982
+4275359,Mental alertness - finding,1,71,0.9468812877263582
+440933,Effects of accidental exposure to external cause,1,70,0.8343685300207039
+40481920,Periumbilical pain,1,69,0.8397271952259164
+373764,Toxic encephalopathy,1,68,0.8643546971027217
+4340960,Idiopathic acute pancreatitis,1,67,0.9167797376752601
+4242574,Intertrigo,1,67,0.9905020352781547
+4168212,Restlessness and agitation,1,67,0.8937132519222072
+4172970,Nontraumatic rotator cuff tear,1,66,0.9463869463869464
+4059290,Steatosis of liver,1,65,0.8307692307692308
+4201390,Colostomy present,1,65,0.8677884615384616
+4154168,Pelvic injury,1,65,0.8485576923076923
+433701,Mycosis,1,63,0.8637992831541219
+192680,Portal hypertension,1,62,0.846641988365944
+201461,Disorder affecting transplanted structure,1,62,0.9185616076150185
+4147829,Pain in pelvis,1,62,0.9085140137493389
+4188155,Hernia of anterior abdominal wall,1,62,0.8677948175568482
+4160464,Pseudofolliculitis barbae,1,58,1.0
+4092879,Absent kidney,1,56,0.9227272727272727
+76240,Closed fracture pubis,1,54,0.86722571628232
+4028253,Neoplasm of digestive system,1,54,0.8763102725366876
+200765,Chronic cholecystitis,1,54,0.8972746331236897
+35624757,Neutropenia due to and following chemotherapy,1,53,0.888243831640058
+44783028,Injury of shoulder and upper arm,1,51,1.0
+4064161,Cirrhosis of liver,1,50,0.8702040816326531
+4120275,Drug-induced hypotension,1,50,0.9689795918367347
+28974,Candidiasis of the esophagus,1,49,0.9600340136054422
+133729,Hyperparathyroidism,1,48,0.9556737588652482
+200757,Abscess of peritoneum,1,47,0.8556891766882516
+197331,Disorder of urinary tract,1,46,0.9777777777777777
+44782732,Chronic pulmonary embolism,1,45,0.9939393939393939
+198809,Acute cholecystitis,1,44,0.8985200845665962
+46273719,Acute hypercapnic respiratory failure,1,44,0.9408033826638478
+46269946,Sepsis caused by Enterococcus,1,44,0.9513742071881607
+4302537,Digestive system finding,1,44,0.985200845665962
+195596,Chronic pancreatitis,1,43,0.9368770764119602
+4211001,Chronic gastric ulcer with hemorrhage,1,43,0.9390919158361019
+253790,Pneumonia due to Klebsiella pneumoniae,1,43,0.9246954595791805
+4280726,Seasonal allergic rhinitis,1,42,0.9512195121951219
+4151985,Lower back injury,1,42,0.9698025551684089
+40487064,Sepsis due to Escherichia coli,1,42,0.9732868757259001
+4284982,Calculus of bile duct without obstruction,1,41,0.9804878048780488
+432863,Acquired coagulation factor deficiency,1,39,0.9824561403508771
+4008220,"Closed fracture lumbar vertebra, wedge",1,39,0.9608636977058029
+4100065,Disease due to Coronaviridae,1,39,1.0
+381270,Parkinson's disease,1,38,0.7254623044096729
+192735,Malignant ascites,1,38,0.8847795163584637
+443785,Calculus of gallbladder with cholecystitis,1,37,0.9354354354354354
+4160859,Methicillin resistant Staphylococcus aureus carrier,1,37,0.9894894894894894
+435459,Staphylococcal infectious disease,1,36,0.9523809523809523
+380706,Regular astigmatism,1,36,1.0
+4265485,Bacteriuria,1,36,0.9587301587301588
+444131,Injury of lower leg,1,36,0.919047619047619
+4085586,"Thrombus due to any device, implant AND/OR graft",1,36,0.9634920634920635
+193252,Diverticulosis of small intestine,1,34,0.9768270944741533
+435565,Embolism and thrombosis of the vena cava,1,34,0.9500891265597148
+198464,Incisional hernia,1,33,0.9299242424242424
+4307254,Closed fracture,1,33,0.8106060606060606
+74582,Primary malignant neoplasm of rectum,1,32,0.8790322580645161
+44782743,Acute deep venous thrombosis of popliteal vein,1,32,0.9173387096774194
+4331284,Contusion of scalp,1,32,0.842741935483871
+4144112,Adult hypertrophic pyloric stenosis,1,31,0.989247311827957
+432461,Closed fracture of shaft of clavicle,1,31,1.0
+432463,Closed fracture of acromial end of clavicle,1,31,1.0
+43530742,Paralytic syndrome on one side of the body as late effect of cerebrovascular accident,1,31,0.9505376344086022
+435119,Late effect of injury,1,31,0.9182795698924732
+4297667,Basal cell carcinoma of upper extremity,1,30,0.9218390804597701
+4273391,Suicidal thoughts,1,30,0.9425287356321839
+132393,Pressure ulcer stage 1,1,30,1.0
+4025938,Pressure ulcer of sacral region,1,30,1.0
+193165,Disorder of adrenal gland,1,29,0.9852216748768473
+432250,Disorder due to infection,1,28,0.9788359788359788
+443421,Gallbladder and bile duct calculi,1,27,1.0
+197610,Cyst of ovary,1,27,0.8831908831908832
+135340,Pressure ulcer stage 3,1,26,1.0
+44782747,Acute deep venous thrombosis of femoral vein,1,26,0.9353846153846154
+40486896,Primary malignant neoplasm of extrahepatic bile duct,1,25,0.9266666666666666
+36684319,Adjustment disorder with mixed anxiety and depressed mood,1,25,0.9466666666666667
+4307774,Acute lower respiratory tract infection,1,25,1.0
+444122,Calculus of bile duct with obstruction,1,25,1.0
+4112334,Idiopathic hypotension,1,25,1.0
+439199,Open wound without complication,1,24,1.0
+78619,Contusion of knee,1,24,0.8985507246376812
+4165998,Generalized enlarged lymph nodes,1,24,1.0
+437027,Hemorrhagic duodenitis,1,24,1.0
+442012,"Mechanical complication of genitourinary device, implant AND/OR graft",1,24,1.0
+4003404,Inactive tuberculosis,1,23,1.0
+195007,Female stress incontinence,1,23,0.9644268774703557
+4186463,Exocrine pancreatic insufficiency,1,23,0.9683794466403162
+36712860,Non-infectious systemic inflammatory response syndrome without acute organ failure,1,23,1.0
+36715748,Fracture of fourth lumbar vertebra,1,23,1.0
+79061,Slow transit constipation,1,23,1.0
+4028387,Disorder of integument,1,22,1.0
+4280071,Thrombocytosis,1,22,1.0
+4341763,Gallstone acute pancreatitis,1,22,1.0
+40493038,Sepsis due to Gram negative bacteria,1,22,1.0
+4263360,Fracture of pubis,1,22,1.0
+199767,Neoplasm of uncertain behavior of liver and/or biliary passages,1,21,0.9476190476190476
+4308390,Mechanical complication of bile duct prosthesis,1,21,1.0
+198371,Secondary malignant neoplasm of small intestine,1,21,0.9809523809523809
+196455,Hepatorenal syndrome,1,20,1.0
+23868,Congenital anomaly of esophagus,1,20,1.0
+434592,B-cell lymphoma (clinical),1,20,1.0
+4029488,Hepatic encephalopathy,1,20,1.0
+194589,Primary malignant neoplasm of biliary tract,1,19,1.0
+192568,Secondary malignant neoplasm of intra-abdominal lymph nodes,1,19,1.0
+318736,Migraine,1,19,1.0
+439013,Insomnia disorder related to another mental disorder,1,18,1.0
+40484532,Nonalcoholic steatohepatitis,1,18,0.8104575163398693
+4245975,Hepatic failure,1,18,1.0
+200959,Secondary malignant neoplasm of intrapelvic lymph nodes,1,17,1.0
+433516,Duodenitis,1,17,0.9264705882352942
+320073,Neutropenia,1,17,1.0
+4220313,"Primary degenerative dementia of the Alzheimer type, senile onset",1,16,0.9833333333333333
+4150981,Drug resistance,1,16,1.0
+40480160,Osteoporotic fracture,1,16,1.0
+40483171,Ulcer of anorectal structure,1,16,0.8583333333333333
+434293,Primary malignant neoplasm of body of pancreas,1,15,1.0
+43530625,Recurrent inguinal hernia,1,15,1.0
+312927,Acute cor pulmonale,1,15,1.0
+4177206,Tubulointerstitial nephritis,1,14,1.0
+4327889,Thromboembolism of vein,1,14,1.0
+75634,Fracture malunion,1,13,1.0
+434875,Secondary malignant neoplasm of mediastinum,1,13,1.0
+40489908,Sepsis due to Streptococcus,1,13,1.0
+4203555,Collapse of thoracic vertebra,1,13,0.8846153846153846
+198191,Acquired hypertrophic pyloric stenosis,1,13,1.0
+4153890,Malignant melanoma of trunk,1,12,1.0
+46271778,Cytokine release syndrome,1,12,1.0
+4024301,Neurotoxicity,1,12,1.0
+435956,Closed fracture of base of neck of femur,1,12,1.0
+199078,Vaginal wall prolapse,1,12,1.0
+201352,Gallbladder calculus with acute cholecystitis and obstruction,1,12,1.0
+80045,Primary malignant neoplasm of anus,1,11,1.0
+4124693,Hypertrophic cardiomyopathy,1,11,0.8909090909090909
+4116241,Squamous cell carcinoma of anal margin,1,11,1.0
+4211974,Acute viral hepatitis,1,11,1.0
+4246127,Malignant neoplasm of liver,1,11,1.0
+42536696,Contusion of head,1,11,0.9454545454545454
+441737,Contusion,1,11,1.0
+201901,Abscess of liver,1,11,1.0
+199065,Stricture of ureter,1,10,1.0
+4266188,Disorder of body wall,1,10,1.0
+4232181,Chronic duodenal ulcer with hemorrhage,1,10,1.0
+600858,Nontraumatic hematoma of soft tissue,1,10,1.0
+44783016,Calculus of gallbladder with acute and chronic cholecystitis,1,9,1.0
+440005,Complication of medical care,1,9,1.0
+435790,Secondary polycythemia,1,7,1.0
+74396,Temporomandibular joint disorder,1,7,1.0
+4131422,Neoplasm of intra-abdominal lymph nodes,1,7,0.9523809523809523
+436278,Contusion of thigh,1,7,1.0
+4289526,Nonulcer dyspepsia,1,6,1.0
+4138412,Fracture of proximal end of femur,1,6,1.0
+193666,Injury of hip region,1,6,1.0
+40481091,Partial edentulism,1,6,1.0
+4143698,Streptococcus agalactiae infection,1,5,1.0
+22340,Esophageal varices without bleeding,1,4,1.0
+192606,Paraplegia,1,4,1.0
+4043731,Infarction - precerebral,1,4,1.0
+198091,Primary malignant neoplasm of retroperitoneum,1,3,1.0
+435082,Closed fracture of nasal bones,1,3,1.0
+4128827,Voice production finding,1,3,1.0
+40481303,Aphonia,1,2,1.0
+375800,Dystonia,1,2,1.0
+435988,"Motor vehicle accident, driver",1,2,1.0
+381537,Organic anxiety disorder,1,1,0.0
+254761,Cough,2,824,0.2309777159102974
+377889,Hearing loss,2,460,0.4413469735720375
+45766714,Inflammatory dermatosis,2,428,0.4643677909343606
+200174,Disorder of skin and/or subcutaneous tissue,2,425,0.4716648168701443
+4322175,Late effect of complications of procedure,2,396,0.48099987213911266
+4168700,Localized enlarged lymph nodes,2,384,0.4760389469103568
+135777,Neoplasm of uncertain behavior of skin,2,354,0.5406283510187097
+138825,Actinic keratosis,2,346,0.5016335762754461
+257007,Allergic rhinitis,2,342,0.5375829603333848
+200962,Primary malignant neoplasm of prostate,2,338,0.5368461714044914
+141932,Senile hyperkeratosis,2,335,0.5483242470283314
+135618,Pruritic rash,2,313,0.5606414352420742
+40321716,Secondary thrombocytopenia,2,309,0.5568444500483335
+4311499,Primary malignant neoplasm of respiratory tract,2,281,0.521148957803762
+194686,Acquired renal cystic disease,2,277,0.6596295714958406
+439392,Primary malignant neoplasm,2,229,0.5743507239715008
+40326053,Dysphonia,2,224,0.6620355541319667
+4330445,Pleuritic pain,2,222,0.6790591496473849
+4112752,Basal cell carcinoma of skin,2,213,0.6052794755957126
+4111921,Squamous cell carcinoma of skin,2,207,0.5927489329768773
+432582,Neoplastic disease of uncertain behavior,2,189,0.6944163007992795
+4092216,Malignant neoplasm of upper lobe of lung,2,188,0.6731141199226306
+78097,Secondary malignant neoplasm of bone,2,185,0.6493537015276146
+136497,Scar conditions and fibrosis of skin,2,180,0.6430788330229671
+4228361,Asteatosis cutis,2,180,0.7333954065797641
+261687,Hemoptysis,2,177,0.7462121212121212
+433740,Immunodeficiency disorder,2,175,0.6734975369458128
+4032878,Hair follicle disorder,2,175,0.6986535303776683
+438557,Abnormal glucose level,2,174,0.7235399641219853
+439407,Disorder of nasal cavity,2,171,0.7429652562779497
+254591,Secondary malignant neoplasm of lung,2,168,0.7070858283433133
+440371,Disorder of immune function,2,160,0.7191037735849056
+40483107,Inflamed seborrheic keratosis,2,159,0.7067112491043707
+4166126,"Localized swelling, mass and lump, trunk",2,154,0.7024870554282319
+135287,Non-neoplastic nevus,2,147,0.7321778026279004
+432545,Bacterial infectious disease,2,144,0.7873931623931624
+140480,Impetigo,2,143,0.8096129222889786
+257012,Chronic sinusitis,2,135,0.7132117191818684
+4157456,Primary malignant neoplasm of skin head and neck,2,133,0.7125768967874231
+141375,Hypertrophic condition of skin,2,129,0.7297722868217055
+35624756,Anemia due to and following chemotherapy,2,127,0.7797775278090239
+37396808,Cancer-related fatigue,2,124,0.8263834251245739
+140641,Verruca vulgaris,2,122,0.7423113399268392
+72266,Secondary malignant neoplasm of pleura,2,121,0.8031680440771349
+138102,Benign neoplasm of skin,2,121,0.75633608815427
+4317258,Disorder of skin,2,120,0.7984593837535015
+4298026,Squamous cell carcinoma of skin of face,2,119,0.6605896595926506
+438028,Poisoning by drug AND/OR medicinal substance,2,119,0.7651331719128329
+36713112,Pancytopenia due to antineoplastic chemotherapy,2,118,0.7531508039982616
+4061844,Skin changes due to chronic exposure to non-ionizing radiation,2,110,0.7884904086738949
+4064036,Generalized skin eruption caused by drug and medicament,2,108,0.8189685012114919
+314487,Pulmonary function studies abnormal,2,106,0.8655884995507637
+441840,Clinical finding,2,102,0.8196466705494079
+4157454,"Primary malignant neoplasm of lower lobe, bronchus or lung",2,102,0.8287711124053582
+257683,Posterior rhinorrhea,2,101,0.8055445544554456
+4295624,Squamous cell carcinoma of skin of ear,2,99,0.733044733044733
+440058,Malignant lymphoma of extranodal AND/OR solid organ site,2,99,0.7924139352710782
+256451,Bronchitis,2,98,0.7965495476541132
+40484908,Imaging of brain abnormal,2,94,0.8366506520247083
+136773,Rosacea,2,88,0.8218390804597702
+443600,Localized infection of skin AND/OR subcutaneous tissue,2,84,0.8476764199655766
+46273539,Acute bronchospasm,2,83,0.8909785483397002
+432289,Drug-induced neutropenia,2,79,0.7689061992859462
+4294416,Basal cell carcinoma of ear,2,79,0.8938656280428432
+433435,Carcinoma in situ,2,71,0.8832997987927566
+318096,Secondary malignant neoplasm of lymph node,2,71,0.7412474849094567
+46273652,Secondary malignant neoplasm of left lung,2,67,0.7955676164631389
+45757559,Pharyngeal dysphagia,2,67,0.8521031207598372
+436581,Accidental poisoning,2,66,0.8717948717948718
+439751,Secondary malignant neoplasm of intrathoracic lymph nodes,2,65,0.8572115384615384
+4246451,Secondary malignant neoplasm of brain,2,65,0.8572115384615384
+4038838,Non-Hodgkin's lymphoma (clinical),2,63,0.8177163338453661
+43530807,Allergic disposition,2,59,0.9105786090005844
+44782760,Acute thrombosis of superficial vein of upper extremity,2,56,0.9214285714285714
+138225,Disorder of sebaceous gland,2,54,0.8839972047519218
+4033848,Post-inflammatory hyperpigmentation,2,54,1.0
+132706,Disorder of nail,2,52,1.0
+261599,Vocal cord paralysis,2,49,0.9345238095238095
+444411,Carcinoma in situ of skin of trunk,2,48,0.9388297872340425
+432451,Abnormal results function studies of central nervous system,2,47,0.9037927844588344
+4115027,Squamous cell carcinoma of skin of upper lip,2,47,0.8316373728029602
+4301427,Squamous cell carcinoma of upper extremity,2,46,1.0
+139750,Primary malignant neoplasm of skin,2,46,0.8521739130434782
+4207539,Syndrome of inappropriate vasopressin secretion,2,46,0.9323671497584541
+444410,Carcinoma in situ of skin of ear,2,46,1.0
+373425,Secondary malignant neoplasm of nervous system,2,45,0.9606060606060606
+4050884,Pleural plaque,2,45,0.9505050505050505
+46270513,Secondary malignant neoplasm of right lung,2,43,0.7962347729789591
+133726,Carcinoma in situ of skin of face,2,43,0.902547065337763
+193144,Secondary malignant neoplasm of adrenal gland,2,40,0.9435897435897436
+46269921,Oral ulcerative mucositis due to antineoplastic therapy,2,38,0.9672830725462305
+4114222,Malignant tumor of head and neck,2,34,0.8413547237076648
+4045749,Cerebral amyloid angiopathy,2,32,0.9435483870967742
+257755,Complication of transplanted lung,2,31,1.0
+42539698,Transplanted lung present,2,31,1.0
+4207623,Lung transplant rejection,2,31,1.0
+133725,Carcinoma in situ of skin of lip,2,31,1.0
+4306292,Upper abdominal pain,2,30,0.9632183908045977
+442108,Benign neoplasm of cecum,2,23,0.8537549407114624
+35624677,Sebaceous cyst of skin,2,20,1.0
+4299417,Basal cell carcinoma of face,2,20,1.0
+4300557,Squamous cell carcinoma of skin of trunk,2,19,0.9473684210526315
+4241908,Carcinoma in situ of skin of upper limb,2,18,1.0
+40487528,Non-Hodgkin's lymphoma of extranodal site,2,18,1.0
+141323,Acute maxillary sinusitis,2,16,1.0
+198400,Hemangioma of skin and subcutaneous tissue,2,15,0.8761904761904762
+256633,Primary malignant neoplasm of base of tongue,2,14,1.0
+4095592,Malignant melanoma of scalp and/or neck,2,13,1.0
+137350,Radiation dermatitis,2,13,1.0
+40492482,Squamous cell carcinoma of nose,2,12,1.0
+442111,Benign neoplasm of ascending colon,2,12,1.0
+440979,Acquired hemolytic anemia,2,12,1.0
+139766,Carcinoma in situ of scalp and skin of neck,2,11,1.0
+195847,Gastroparesis syndrome,2,11,1.0
+42514443,"Neoplasm defined only by topography: Upper lobe, lung",2,11,1.0
+4092538,Herpesviral vesicular dermatitis,2,11,1.0
+141960,Skin finding,2,10,1.0
+81239,Primary malignant neoplasm of upper limb,2,9,1.0
+440129,Hypertrophy of nasal turbinates,2,8,1.0
+42514479,Neoplasm defined only by topography: Prostate gland,2,8,1.0
+259848,Chronic rhinitis,2,7,0.9523809523809523
+373499,Disorder of eye region,2,5,1.0
+4317827,Neoplasm of uncertain behavior of tongue,2,4,1.0
+441521,Malignant lymphoma of lymph nodes of axilla AND/OR upper limb,2,3,1.0
+23986,Disorder of pituitary gland,2,3,1.0
+4299418,Basal cell carcinoma of lower extremity,2,2,1.0
+321876,Disorder of capillaries,2,1,0.0
+312437,Dyspnea,3,1047,0.16370363471340313
+314658,Cardiomegaly,3,956,0.1873907424039957
+319835,Congestive heart failure,3,916,0.20084472761113895
+764123,Atherosclerosis of coronary artery without angina pectoris,3,877,0.21236521349765441
+443597,Chronic kidney disease stage 3,3,752,0.265762671048531
+314666,Old myocardial infarction,3,717,0.2793062340758748
+4115173,Atrial premature complex,3,698,0.2846501379222456
+4154290,Paroxysmal atrial fibrillation,3,695,0.2914726432110796
+201826,Type 2 diabetes mellitus,3,679,0.2901846807512349
+437390,Hypoxemia,3,622,0.3291910672030901
+4089462,Ventricular premature complex,3,600,0.34652754590984974
+316139,Heart failure,3,596,0.3495911116124302
+436962,Insomnia,3,579,0.3404270577478172
+40479576,Chronic diastolic heart failure,3,574,0.36550096989376774
+44782429,Chronic kidney disease due to hypertension,3,574,0.35571081963624424
+434894,Acute posthemorrhagic anemia,3,569,0.34394415703358994
+40479192,Chronic systolic heart failure,3,567,0.3576694648543883
+316999,Conduction disorder of the heart,3,552,0.36637602251505824
+435517,Acidosis,3,547,0.36293201009837206
+442588,Obstructive sleep apnea syndrome,3,540,0.380698137840995
+43531578,Chronic kidney disease due to type 2 diabetes mellitus,3,525,0.3930425299890949
+255848,Pneumonia,3,518,0.3768474194006109
+439696,Hypertensive heart and renal disease with (congestive) heart failure,3,506,0.40891480452393064
+444101,Hypertensive heart failure,3,504,0.4118700495440058
+314059,Right bundle branch block,3,492,0.416488665904989
+255573,Chronic obstructive lung disease,3,490,0.4092233212303326
+321319,Cardiomyopathy,3,484,0.4416525503482025
+4141360,Chronic atrial fibrillation,3,483,0.4294219221154094
+4188331,Chronic pulmonary edema,3,481,0.43018884268884267
+4229440,Chronic congestive heart failure,3,479,0.4308225819131559
+314665,Atrial flutter,3,471,0.4443420517685323
+42537730,Coronary artery graft present,3,448,0.44986417385746247
+314379,First degree atrioventricular block,3,436,0.45659601391964566
+4152384,Non-rheumatic aortic sclerosis,3,415,0.4921948664222106
+42537729,Aortocoronary bypass graft present,3,415,0.48796926837785926
+4103295,Ventricular tachycardia,3,405,0.49904657132379904
+443454,Cerebral infarction,3,403,0.4755502882609286
+4275423,Supraventricular tachycardia,3,398,0.5053478981810817
+4270024,Acute non-ST segment elevation myocardial infarction,3,397,0.4991985344630181
+434004,Hypervolemia,3,393,0.5225891883470946
+440674,Gout,3,391,0.4997442455242967
+312934,Atherosclerosis of aorta,3,390,0.5015490079757432
+443601,Chronic kidney disease stage 2,3,388,0.5092836783078931
+261600,Acute pulmonary edema,3,376,0.5366241134751774
+321052,Peripheral vascular disease,3,371,0.5246594303198077
+4142875,Solitary nodule of lung,3,371,0.5152618926203831
+45768812,Anemia in chronic kidney disease,3,369,0.5537145045363497
+42538119,Transplanted heart valve present,3,368,0.5357185167634166
+37016349,Hyperglycemia due to type 2 diabetes mellitus,3,367,0.5341939518470541
+44782719,Chronic combined systolic and diastolic heart failure,3,363,0.5540995083938328
+36712983,Angina co-occurrent and due to coronary arteriosclerosis,3,361,0.5528470298553401
+437247,Anemia of chronic disease,3,360,0.5285515320334262
+4169095,Bradycardia,3,352,0.5398536648536648
+316998,Left bundle branch block,3,350,0.5742120343839542
+314664,Long QT syndrome,3,342,0.5636329337517793
+40481043,Acute on chronic diastolic heart failure,3,341,0.5593237881662929
+4158911,Non-rheumatic heart valve disorder,3,337,0.582732796382648
+4295336,Left anterior fascicular block,3,336,0.5688877043354655
+37119138,Iron deficiency anemia due to blood loss,3,335,0.573366699436947
+45766207,Non-rheumatic mitral valve stenosis with regurgitation,3,334,0.5647803492114869
+434547,Complication of surgical procedure,3,330,0.5557336280740536
+435829,Rheumatic disease of heart valve,3,329,0.5652754095930017
+4322024,Pulmonary hypertension,3,329,0.5514307954629698
+442019,Complication of procedure,3,327,0.5521097165156376
+44782733,Acute on chronic combined systolic and diastolic heart failure,3,326,0.5756866446436999
+4110961,Generalized ischemic myocardial dysfunction,3,326,0.6082491741387447
+4232697,Persistent atrial fibrillation,3,323,0.5743514797223237
+443587,Diastolic heart failure,3,321,0.5941199376947041
+37016114,Acute on chronic hypoxemic respiratory failure,3,314,0.5635619950753953
+261325,Pulmonary emphysema,3,294,0.633279933133663
+443729,Peripheral circulatory disorder due to type 2 diabetes mellitus,3,280,0.6246543778801843
+373503,Transient cerebral ischemia,3,279,0.6354142492457647
+374375,Impacted cerumen,3,276,0.6592094861660079
+4214376,Hyperglycemia,3,271,0.6263495968293016
+435613,Cellulitis,3,255,0.6266790180639185
+4306267,Coag./bleeding tests abnormal,3,255,0.6447429365446966
+42873170,Dependence on supplemental oxygen,3,249,0.6157857235393186
+321588,Heart disease,3,243,0.643947896473149
+195771,Secondary diabetes mellitus,3,240,0.6936889818688982
+443580,Systolic heart failure,3,237,0.7149395694772224
+4108814,Pericardial effusion - noninflammatory,3,235,0.6969630841971267
+432585,Blood coagulation disorder,3,234,0.6839807784013793
+37018196,Prediabetes,3,229,0.6922929594729181
+140648,Onychomycosis due to dermatophyte,3,228,0.7100239585748512
+260139,Acute bronchitis,3,224,0.6651985906470211
+437312,Bleeding,3,216,0.6866925064599483
+4288310,Carotid artery obstruction,3,207,0.7259509403874115
+441051,Thoracic aortic aneurysm without rupture,3,204,0.713657876943881
+193782,End-stage renal disease,3,202,0.7245948475444559
+443611,Chronic kidney disease stage 5,3,198,0.7736758447418346
+316822,Heart murmur,3,196,0.735897435897436
+321318,Angina pectoris,3,193,0.7696999136442142
+321887,Disorder of artery,3,193,0.7517810880829016
+45763854,Chronic kidney disease stage 3A,3,193,0.7686204663212435
+4250169,Bifascicular block,3,190,0.7484823169033695
+320744,Complete atrioventricular block,3,188,0.7414950506314711
+4195677,Rheumatic tricuspid valve regurgitation,3,184,0.7476835352815395
+44782718,Acute combined systolic and diastolic heart failure,3,183,0.7624452050681559
+443782,Tremor,3,181,0.7746470227133211
+37110250,Atherosclerosis of artery of lower limb,3,180,0.7881440099317194
+4111566,Disorders of both mitral and tricuspid valves,3,180,0.7775915580384855
+4101362,Finding of urine output,3,179,0.7698198480949093
+44784621,Hypertensive heart and chronic kidney disease,3,176,0.8085714285714286
+443563,Arteriosclerosis of coronary artery bypass graft,3,172,0.7935536515707874
+319826,Secondary hypertension,3,170,0.7395057431256526
+4108235,"Combined disorders of mitral, aortic and tricuspid valves",3,168,0.7743085258055318
+4096196,Mild protein-calorie malnutrition (weight for age 75-89 percent of standard),3,160,0.779245283018868
+45757363,Hypoglycemia due to type 2 diabetes mellitus,3,160,0.8013364779874214
+4108234,Multiple valve disease,3,158,0.7942433282270418
+257004,Acute exacerbation of chronic obstructive airways disease,3,158,0.7639280819156655
+318448,Second degree atrioventricular block,3,152,0.8428023701638201
+4084229,Primary gout,3,148,0.8093399521970951
+4119786,Interstitial lung disease,3,143,0.782428838766867
+4197819,Fibrosis of lung,3,142,0.8023174508041154
+321314,Abdominal aortic aneurysm without rupture,3,141,0.7453900709219858
+255841,Chronic bronchitis,3,141,0.8441742654508612
+762294,Pain in right foot,3,141,0.8023302938196555
+434005,Morbid obesity,3,140,0.8071942446043165
+4115367,Wrist joint pain,3,140,0.8423432682425488
+4222174,Rheumatic disease of mitral valve,3,138,0.8138157198772876
+138519,Spondylosis without myelopathy,3,134,0.8148355964538211
+320746,Cardiomyopathy associated with another disorder,3,132,0.8454776775387463
+759852,Cellulitis of left lower limb,3,131,0.8034057545507928
+4256761,Imaging result abnormal,3,131,0.8676453317674692
+134057,Disorder of cardiovascular system,3,131,0.8348796241926013
+437758,Dependence on enabling machine or device,3,128,0.8607283464566929
+133141,Tinea pedis,3,128,0.8507627952755905
+36712779,Chronic total occlusion of coronary artery,3,126,0.885968253968254
+4111409,"Aortic incompetence, non-rheumatic",3,126,0.7933968253968254
+4177862,Chronic hypoxemic respiratory failure,3,126,0.7832380952380953
+4163710,Dilated cardiomyopathy,3,122,0.8829426906923181
+765131,Pain in left foot,3,122,0.8817233437203631
+45763855,Chronic kidney disease stage 3B,3,122,0.8677685950413223
+4111231,Pain in toe,3,121,0.8555096418732783
+4155910,"Edema, generalized",3,121,0.86267217630854
+46272242,Intestinal obstruction co-occurrent and due to decreased peristalsis,3,120,0.8567226890756302
+4339214,Secondary pulmonary hypertension,3,119,0.8599914542088022
+4133224,Lobar pneumonia,3,119,0.9071357356501922
+377910,Deviated nasal septum,3,119,0.8310781939894601
+4200056,Finding of vision of eye,3,119,0.8822105113231733
+4296653,Acute ST segment elevation myocardial infarction,3,118,0.8707808199333623
+43021974,Complication associated with device,3,117,0.8575007368110816
+36712982,Unstable angina co-occurrent and due to coronary arteriosclerosis,3,116,0.8827586206896552
+435081,Abnormal findings diagnostic imaging heart+coronary circulat,3,115,0.8617848970251716
+439846,Left heart failure,3,113,0.8535082174462706
+4096682,Bleeding from nose,3,113,0.8938053097345132
+4262562,Abnormal heart beat,3,111,0.8045864045864046
+4002359,Monoclonal gammopathy (clinical),3,110,0.8802335279399499
+36717006,Intermittent claudication of bilateral lower limbs co-occurrent and due to atherosclerosis,3,110,0.8800667222685571
+435511,Hypercalcemia,3,108,0.9113880235375562
+36717267,Ectasia of thoracic aorta,3,107,0.8813260447892788
+4111412,"Tricuspid incompetence, non-rheumatic",3,107,0.8439428672191853
+4110056,Chronic obstructive pulmonary disease with acute lower respiratory infection,3,101,0.8598019801980198
+40480603,Acute systolic heart failure,3,100,0.8719191919191919
+4008710,"Stenosis due to any device, implant AND/OR graft",3,100,0.8642424242424243
+4210746,Localized amyloidosis,3,99,0.8598227169655741
+4289309,Atrial septal defect,3,99,0.9348587920016491
+260131,Disorder of bronchus,3,99,0.904143475572047
+318450,Cardiac tamponade,3,98,0.8440984641279192
+37309626,Myocardial infarction due to demand ischemia,3,98,0.8428361035135704
+4224926,Obstruction of esophagus,3,97,0.8900343642611683
+4256228,Respiratory failure,3,95,0.9036954087346024
+4336254,Dystrophia unguium,3,95,0.8893617021276595
+4320824,Adverse effect of prosthetic device,3,92,0.900382226469183
+443919,Hypertensive renal failure,3,91,0.9074481074481074
+3656064,Pneumothorax due to and following procedure,3,89,0.8072012257405515
+317305,Stricture of artery,3,88,0.9077847439916406
+435726,Mechanical complication of device,3,87,0.8765036086607859
+4168217,Generalized hyperhidrosis,3,86,0.8771545827633379
+200485,Pressure ulcer of buttock,3,84,0.942627653471027
+436238,Elevated level of transaminase and lactic acid dehydrogenase,3,84,0.9096385542168675
+316135,Atrioventricular block,3,83,0.910079341757273
+43020910,Pulmonary hypertension due to left heart disease,3,83,0.9147810755215986
+4196636,Dysarthria,3,82,0.8777476663655526
+432738,Chronic fatigue syndrome,3,82,0.9099668774465522
+433208,Disorder of pulmonary circulation,3,81,0.921604938271605
+4286497,Centriacinar emphysema,3,79,0.8565400843881856
+261326,Viral pneumonia,3,79,0.9662447257383966
+4332246,Aneurysm,3,78,0.8994338994338994
+436136,Dissection of thoracic aorta,3,74,0.8100703443169197
+437530,Disorder of lipid metabolism,3,74,0.9444650129581637
+440940,Methicillin resistant Staphylococcus aureus infection,3,71,0.9525150905432596
+197444,Vascular complication of medical care,3,70,0.9209109730848861
+37017432,Polyneuropathy due to type 2 diabetes mellitus,3,69,0.9484228473998295
+4202383,Drug-induced diabetes mellitus,3,68,0.8968393327480246
+45768480,Longstanding persistent atrial fibrillation,3,68,0.9692712906057945
+759853,Cellulitis of right lower limb,3,68,0.9148375768217735
+43022062,Cardiovascular system complication of procedure,3,67,0.9194934418815016
+432869,Hemorrhagic disorder due to circulating anticoagulants,3,67,0.947535052012664
+200447,Gastrointestinal complication,3,66,0.8988344988344988
+24609,Hypoglycemia,3,65,0.9802884615384615
+4040820,Rheumatic disease of mitral AND aortic valves,3,64,0.9538690476190477
+4132130,Dilatation of aorta,3,63,0.9124423963133641
+439928,Gangrenous disorder,3,61,0.9628415300546448
+4025325,Periapical abscess,3,61,0.8765027322404372
+317895,Renovascular hypertension,3,59,0.9544126241963764
+257315,Bacterial pneumonia,3,59,0.9655172413793104
+257503,Primary malignant neoplasm of main bronchus,3,58,0.9364791288566243
+436093,Disseminated intravascular coagulation,3,58,0.9661222020568663
+4003171,Benign neoplasm of meninges,3,56,0.9376623376623376
+4353709,Intracerebral vascular finding,3,56,0.912987012987013
+4307981,Clostridium difficile colitis,3,55,0.960942760942761
+45769461,Non-rheumatic mitral valve disease,3,54,0.9748427672955975
+46270027,Pneumonia due to methicillin resistant Staphylococcus aureus,3,54,0.9280223619846262
+432595,Amyloidosis,3,53,1.0
+37016882,Dissection of thoracoabdominal aorta,3,53,0.8664731494920174
+4232691,Permanent atrial fibrillation,3,52,0.9698340874811463
+4108817,"Tricuspid valve disorder, non-rheumatic",3,52,0.9132730015082956
+376063,Benign neoplasm of cerebral meninges,3,51,0.927843137254902
+4177944,Panacinar emphysema,3,51,1.0
+36714994,Typical atrial flutter,3,48,0.9911347517730497
+4273632,Right ventricular failure,3,47,0.9195189639222942
+438252,Spontaneous ecchymosis,3,47,0.9269195189639223
+43020424,Hypertensive emergency,3,46,0.9565217391304348
+40491960,Sepsis due to methicillin resistant Staphylococcus aureus,3,45,0.9545454545454546
+4237062,Mural thrombus of heart,3,45,0.9959595959595959
+4059452,Glomerular disease,3,44,1.0
+194993,Intestinal malabsorption,3,44,1.0
+36716978,Acute on chronic hypercapnic respiratory failure,3,44,0.9460887949260042
+36712986,Atypical atrial flutter,3,43,0.9977851605758582
+193520,Urinary bladder stone,3,43,0.9944629014396457
+72407,Effusion of joint of shoulder region,3,43,0.9125138427464009
+78505,"Localized, primary osteoarthritis of the ankle and/or foot",3,43,1.0
+44782819,Chronic occlusion of artery of extremity,3,41,1.0
+4191650,Acute respiratory distress,3,41,1.0
+444264,Thrombosis of iliac artery,3,40,0.9397435897435897
+4125590,Slurred speech,3,40,0.9794871794871794
+4100857,Extreme obesity with alveolar hypoventilation,3,38,0.9246088193456614
+4242669,Biventricular congestive heart failure,3,38,1.0
+4170145,Absence of lung,3,38,0.9416785206258891
+374905,Non-organic sleep disorder,3,37,0.9564564564564565
+4121463,Postoperative cardiac complication,3,37,0.9804804804804805
+200451,Chronic passive congestion of liver,3,37,0.9654654654654654
+320739,Dissection of aorta,3,36,0.9142857142857143
+444084,Extrinsic allergic alveolitis,3,36,0.9952380952380953
+37109056,Vascular dementia without behavioral disturbance,3,36,0.9174603174603174
+199064,Chronic vascular insufficiency of intestine,3,36,0.9650793650793651
+4140438,Chronic hypercapnic respiratory failure,3,36,0.9825396825396825
+4010963,Cramp in lower leg associated with rest,3,34,1.0
+316428,Hypertrophic obstructive cardiomyopathy,3,33,0.946969696969697
+435786,Disorder of sleep-wake cycle,3,33,1.0
+4013643,Pulmonary arterial hypertension,3,32,1.0
+133228,Dental caries,3,32,0.9919354838709677
+4148486,Postprocedural respiratory failure,3,29,0.9950738916256158
+200618,Postoperative shock,3,29,1.0
+46273463,Upper respiratory tract infection due to Influenza,3,28,0.9867724867724867
+4281826,Lymphocytosis,3,28,0.9735449735449735
+4027663,Peptic ulcer,3,28,1.0
+256723,Pneumonia and influenza,3,28,0.9867724867724867
+4111709,Non-traumatic subdural hemorrhage,3,27,1.0
+440032,Cytomegalovirus infection,3,27,1.0
+432933,Aneurysm of artery of lower extremity,3,27,0.9914529914529915
+433596,Abnormal sputum,3,27,1.0
+43022069,Primary central sleep apnea,3,25,1.0
+44783628,Pulmonary hypertension due to lung disease and/or hypoxia,3,25,1.0
+46273390,Dependence on respirator,3,25,1.0
+321315,Trifascicular block,3,25,1.0
+46269757,Chronic ulcer of skin of lower leg,3,24,0.9927536231884058
+40482237,Hemiplegia of dominant side,3,24,0.9166666666666666
+4175807,Rheumatic disease of tricuspid valve,3,24,1.0
+4110937,Non-rheumatic mitral valve stenosis,3,23,1.0
+4245385,Displacement of cardiac device,3,22,1.0
+4009186,Arcus senilis,3,22,1.0
+4057432,Mediastinal emphysema,3,22,1.0
+4110189,Cerebral infarct due to thrombosis of precerebral arteries,3,21,1.0
+37016130,Lesion of oral mucosa,3,21,1.0
+4234997,Disorder of vein,3,21,1.0
+4166844,Intraventricular conduction defect,3,19,1.0
+4082311,B-cell chronic lymphocytic leukemia,3,18,1.0
+258449,Hemopericardium,3,18,1.0
+4178810,Gastrointestinal complication of procedure,3,18,1.0
+4308835,Postoperative hematoma formation,3,18,1.0
+37016889,Dissection of renal artery,3,18,1.0
+434467,Ostium secundum type atrial septal defect,3,18,1.0
+4098611,Hyperuricemia without signs of inflammatory arthritis and tophaceous disease,3,17,1.0
+4268046,Left posterior fascicular block,3,17,1.0
+198401,Neoplasm of uncertain behavior of bladder,3,16,1.0
+4320944,Cellulitis of toe,3,16,1.0
+376065,Disorder of nervous system due to type 2 diabetes mellitus,3,16,1.0
+4103532,Immune thrombocytopenia,3,15,1.0
+198446,Embolism and thrombosis of the abdominal aorta,3,15,1.0
+43530690,Foot ulcer due to type 2 diabetes mellitus,3,15,1.0
+4181965,Chronic ulcer of foot,3,15,1.0
+4150299,Localization-related idiopathic epilepsy,3,14,1.0
+436996,Thoracoabdominal aortic aneurysm,3,14,0.8681318681318682
+4111416,"Pulmonary incompetence, non-rheumatic",3,14,1.0
+4239381,Psychoactive substance abuse,3,12,1.0
+315361,Orthopnea,3,12,1.0
+141825,Simple goiter,3,12,1.0
+4260535,Diverticulitis of large intestine,3,12,1.0
+200450,Disorder of urethra,3,12,1.0
+438878,Liver function tests abnormal,3,12,0.9848484848484849
+438688,Sarcoidosis,3,11,1.0
+45763549,Bilateral tinnitus,3,11,1.0
+26052,Primary malignant neoplasm of larynx,3,10,1.0
+376966,Exudative age-related macular degeneration,3,10,1.0
+4168213,Chest pain on breathing,3,10,1.0
+433440,Dysthymia,3,7,1.0
+4296611,Chronic gastric ulcer without hemorrhage AND without perforation,3,7,1.0
+435516,Lipoprotein deficiency disorder,3,6,1.0
+42536547,Ischemia of kidney,3,5,1.0
+40480429,Hemiplegia of nondominant side,3,4,1.0
+196734,Disorder of prostate,3,4,1.0
+320536,Electrocardiogram abnormal,4,1316,0.11050539138072508
+439777,Anemia,4,962,0.184903545985752
+197320,Acute renal failure syndrome,4,940,0.19170462012552966
+254061,Pleural effusion,4,938,0.18899632042562003
+313217,Atrial fibrillation,4,918,0.1981834294362359
+44784217,Cardiac arrhythmia,4,795,0.239614720466391
+4272240,Malaise,4,770,0.2575346629963015
+433595,Edema,4,751,0.2670572569906791
+46271022,Chronic kidney disease,4,643,0.31932675397159926
+4168694,Lung field abnormal,4,562,0.33209000196649346
+40483287,Disorder of kidney and/or ureter,4,533,0.37725175979347997
+4305080,Abnormal breathing,4,528,0.3794060146052556
+373995,Delirium,4,510,0.3935051427250664
+432870,Thrombocytopenic disorder,4,503,0.4116100211480123
+437833,Hypokalemia,4,485,0.41974951009627676
+40481919,Coronary atherosclerosis,4,483,0.39646744499712205
+318800,Gastroesophageal reflux disease,4,478,0.3985333719288089
+80180,Osteoarthritis,4,477,0.43541567570424394
+317576,Coronary arteriosclerosis,4,457,0.38781719067910475
+194984,Disease of liver,4,425,0.4342175360710322
+440383,Depressive disorder,4,415,0.44582969559397007
+44784439,Benign hypertensive renal disease with renal failure,4,413,0.4575095794447448
+79864,Hematuria syndrome,4,406,0.5043361916925135
+257907,Disorder of lung,4,400,0.4374436090225564
+444239,Postprocedural state finding,4,390,0.48136576362797445
+40480602,Acute on chronic systolic heart failure,4,355,0.5395718946447043
+197684,Dysuria,4,342,0.5362281559225532
+434814,Late effect of medical and surgical care complication,4,332,0.5268081389000109
+443612,Chronic kidney disease stage 4,4,317,0.6092920177295053
+4153380,Disorder of carotid artery,4,303,0.5954800778091054
+441872,Supraventricular premature beats,4,302,0.5480407471782799
+196236,Septic shock,4,302,0.5528151195793272
+314054,Aortic valve disorder,4,301,0.5679955703211517
+372887,Disorder of brain,4,295,0.5375072062723395
+201072,Benign prostatic hyperplasia without outflow obstruction,4,291,0.593672236046925
+43530621,Acute postoperative pain,4,290,0.5289583581911467
+438791,Pulmonary congestion and hypostasis,4,290,0.5096527860637156
+312327,Acute myocardial infarction,4,288,0.5767518389469609
+138384,Acquired hypothyroidism,4,282,0.5479165089220362
+319843,Mitral valve disorder,4,267,0.5369040578975529
+253796,Pneumothorax,4,267,0.5868885697389541
+138525,Pain in limb,4,265,0.5921669525443111
+4206148,Syncope and collapse,4,264,0.6170929830625648
+443392,Malignant neoplastic disease,4,257,0.56338156614786
+141941,Cervical spondylosis without myelopathy,4,256,0.5895833333333333
+437579,Paroxysmal ventricular tachycardia,4,253,0.6201141853315766
+316429,Premature beats,4,252,0.6371972427749321
+40482267,Imaging of gastrointestinal tract abnormal,4,250,0.6149718875502008
+29735,Candidiasis of mouth,4,248,0.6771255060728745
+434657,Weakness of face muscles,4,242,0.6231267789170467
+315085,Lymphadenopathy,4,241,0.6279045643153527
+80816,Degeneration of intervertebral disc,4,238,0.6095096266354643
+43531681,Acute deep vein thrombosis of lower limb,4,233,0.6738567411573183
+77646,Disorder of bone and articular cartilage,4,232,0.5839677563815495
+80813,Lumbosacral spondylosis without myelopathy,4,227,0.6055904253245488
+443614,Chronic kidney disease stage 1,4,227,0.6810260808545476
+443410,Infective pneumonia,4,220,0.5604400166044001
+198571,Cardiogenic shock,4,214,0.6505638190513799
+77234,Benign neoplasm of colon,4,202,0.6721836362740752
+312648,Benign essential hypertension,4,202,0.6623811634894833
+4110192,Cerebral infarction due to thrombosis of cerebral arteries,4,189,0.6923899583474051
+435839,Lymphedema,4,189,0.7087695598333896
+81611,Diverticular disease of colon,4,188,0.688246671976334
+72990,Localized osteoarthrosis uncertain if primary OR secondary,4,187,0.7343453510436433
+444367,Cholelithiasis without obstruction,4,185,0.7073443008225617
+444044,Acute tubular necrosis,4,185,0.7097532314923619
+4195892,Chronic cor pulmonale,4,183,0.6725514922236234
+315286,Chronic ischemic heart disease,4,179,0.7231184483083297
+316993,Tricuspid valve disorder,4,179,0.6410771451886259
+440320,Infection due to Escherichia coli,4,178,0.706786009014156
+319049,Acute respiratory failure,4,177,0.6462506420133539
+137379,Musculoskeletal symptom,4,177,0.697226502311248
+434056,Late effects of cerebrovascular disease,4,176,0.6868181818181818
+317248,Disorder of hematopoietic structure,4,174,0.6761676964985716
+40479625,Atherosclerosis of artery,4,173,0.7363220863019223
+443447,Iatrogenic hypotension,4,166,0.7357429718875502
+4232495,Primary cardiomyopathy,4,165,0.699630450849963
+40482228,Imaging of thorax abnormal,4,165,0.7238728750923873
+37017182,Joint pain of pelvic region,4,164,0.6848720634445609
+318772,Disorder of pericardium,4,162,0.7194233571045165
+376961,Disturbance of consciousness,4,160,0.654245283018868
+197032,Hyperplasia of prostate,4,158,0.7498185922760623
+4140207,Nephrosclerosis,4,157,0.8263106320431162
+3655266,Pleural effusion due to malignant neoplastic disease,4,155,0.7100125680770842
+440424,Aphasia,4,155,0.7675743611227482
+192279,Disorder of kidney due to diabetes mellitus,4,152,0.790083652840711
+133299,Swelling of limb,4,149,0.7239252675494287
+313209,Left bundle branch hemiblock,4,148,0.7207207207207207
+4021915,Hematopoietic system finding,4,142,0.7261012885825592
+40481101,Erythema of skin,4,141,0.7571428571428571
+201418,"Flatulence, eructation and gas pain",4,141,0.7670719351570415
+315558,Atherosclerosis of arteries of the extremities,4,140,0.8094552929085304
+444406,Acute subendocardial infarction,4,133,0.7443609022556391
+78786,Pleurisy,4,132,0.8108952116585705
+45763750,Idiopathic pulmonary fibrosis,4,131,0.7653552554315913
+4324765,Arthropathy of knee joint,4,128,0.8214812992125984
+374384,Cerebral ischemia,4,123,0.7086498733839798
+4121341,Diffuse cerebrovascular disease,4,123,0.7086498733839798
+43021237,Secondary erectile dysfunction,4,122,0.7967755046741634
+36716270,Cyst of kidney,4,119,0.8322176328158382
+195581,Peritoneal adhesion,4,116,0.795352323838081
+438730,Alkalosis,4,115,0.8158657513348588
+195834,Atherosclerosis of renal artery,4,113,0.8775284450063211
+435149,Complication of internal device,4,113,0.7928255372945638
+196360,Primary malignant neoplasm of bladder,4,112,0.7874839124839125
+443622,Aneurysm of thoracic aorta,4,112,0.837998712998713
+80189,Displacement of lumbar intervertebral disc without myelopathy,4,109,0.8294257560312606
+315296,Preinfarction syndrome,4,108,0.8520249221183801
+4119158,Neutropenic disorder,4,106,0.7304582210242587
+4113821,Anxiety state,4,103,0.7991623833999619
+381591,Cerebrovascular disease,4,99,0.8274582560296846
+37394658,Severe sepsis,4,98,0.7902377445823691
+4300704,Diffuse large B-cell lymphoma (nodal/systemic with skin involvement),4,97,0.7270189003436426
+317009,Asthma,4,95,0.800895856662934
+40482727,Combined systolic and diastolic dysfunction,4,90,0.8724094881398252
+4108659,Mitral and aortic incompetence,4,90,0.83270911360799
+198700,Secondary malignant neoplasm of liver,4,88,0.8205329153605015
+46270151,Dependence on respiratory device,4,88,0.8798328108672936
+40481319,Imaging of musculoskeletal system abnormal,4,86,0.8686730506155951
+432571,Malignant lymphoma,4,85,0.7565826330532213
+374009,Organic mental disorder,4,84,0.8296041308089501
+73553,Arthropathy,4,84,0.8146873207114171
+432881,Pancytopenia,4,83,0.8645312959153688
+72405,Degenerative joint disease of shoulder region,4,83,0.8342638848075228
+198177,Abdominal aortic aneurysm,4,82,0.7871123155676001
+196738,Disorder of male genital organ,4,81,0.9262345679012346
+253797,Post-inflammatory pulmonary fibrosis,4,80,0.8756329113924051
+40481385,Imaging of abdomen abnormal,4,80,0.8066455696202531
+317302,Sinus node dysfunction,4,79,0.9091204154495294
+43530605,Pulmonary embolism with pulmonary infarction,4,78,0.8354978354978355
+436073,Psychotic disorder,4,78,0.8847818847818848
+4090425,Altered sensation of skin,4,76,0.8421052631578947
+40482638,Arteriosclerosis of autologous vein coronary artery bypass graft,4,76,0.9396491228070175
+42539582,Acquired absence of genital organ,4,73,0.9075342465753424
+317585,Aortic aneurysm,4,72,0.9178403755868545
+4108356,Cerebral infarction due to embolism of cerebral arteries,4,72,0.8024256651017214
+192359,Renal failure syndrome,4,71,0.8893360160965795
+438867,Generalized aches and pains,4,71,0.924748490945674
+138994,Myelodysplastic syndrome (clinical),4,64,0.8705357142857143
+197324,Disorder of peritoneum,4,64,0.9206349206349206
+317898,Malignant essential hypertension,4,63,1.0
+4320332,Hydrocele of tunica vaginalis,4,63,1.0
+443530,Hematochezia,4,63,0.8868407578084997
+321042,Cardiac arrest,4,63,0.8607270865335381
+135893,Pressure ulcer of heel,4,62,0.9444738233738763
+377286,Visual field defect,4,61,0.9437158469945355
+437986,Failure to thrive,4,60,0.9327683615819209
+192360,Cyst and pseudocyst of pancreas,4,59,0.9029807130333138
+137820,Postoperative hypothyroidism,4,57,0.8239348370927319
+432899,Normal pressure hydrocephalus,4,56,0.9149350649350649
+134441,Chronic ulcer of skin,4,56,0.9214285714285714
+4295261,Postmenopausal state,4,56,0.7805194805194805
+78474,Hypertrophy of breast,4,56,0.9233766233766234
+437992,Renal function tests abnormal,4,56,0.9525974025974026
+132841,Malignant lymphoma of lymph nodes of multiple sites,4,55,0.8404040404040404
+4216894,Precipitous drop in hematocrit,4,54,0.9224318658280922
+313221,Rheumatic aortic stenosis,4,54,0.9412997903563941
+435753,Malignant lymphoma of intrathoracic lymph nodes,4,53,0.8381712626995645
+438725,Disorder of magnesium metabolism,4,53,0.8621190130624092
+4023310,Blindness AND/OR vision impairment level,4,53,0.8817126269956459
+438134,Hypersomnia,4,52,0.9532428355957768
+441541,Lymphocytopenia,4,52,0.9102564102564102
+40483262,Arthritis of shoulder region joint,4,52,0.9042232277526395
+192667,Atrophic gastritis,4,51,0.9247058823529412
+4175154,Disorder of the peripheral nervous system,4,47,0.8815911193339501
+373474,Diplopia,4,47,0.9185938945420906
+437461,Disorder of prosthetic cardiac valve,4,47,0.9842738205365402
+4008576,Diabetes mellitus without complication,4,47,0.8945420906567992
+44782690,Chronic kidney disease stage 5 due to hypertension,4,47,0.9472710453283997
+439040,Subdural hemorrhage,4,46,0.8492753623188406
+142026,Disorder of cardiovascular prostheses and implants,4,46,0.9603864734299516
+444247,Venous thrombosis,4,45,0.897979797979798
+4079687,Tumor lysis syndrome,4,45,0.9232323232323232
+261881,Trauma and postoperative pulmonary insufficiency,4,44,0.9714587737843552
+135333,Pressure ulcer,4,44,1.0
+134116,Dermatitis due to drug AND/OR medicine taken internally,4,44,0.9767441860465116
+439154,Abnormal findings on diagnostic imaging of skull and head,4,44,0.9482029598308668
+192273,Benign neoplasm of adrenal gland,4,44,0.9566596194503171
+200349,Malignant lymphoma of intra-abdominal lymph nodes,4,43,0.9169435215946844
+40492458,Neoplasm of uncertain behavior of digestive organ,4,42,0.8815331010452961
+74138,Pathological fracture of vertebra,4,42,0.9744483159117305
+437474,Postoperative infection,4,42,0.8362369337979094
+377575,Tinnitus,4,41,0.9451219512195121
+140352,"Acute myeloid leukemia, disease",4,40,0.9435897435897436
+40483794,Degenerative joint disease of pelvis,4,40,0.9051282051282051
+200527,Splenomegaly,4,39,0.9379217273954116
+4079499,Convalescence after radiotherapy,4,39,1.0
+318459,Respiratory insufficiency,4,39,1.0
+317376,Tachypnea,4,38,0.9644381223328592
+140842,Changes in skin texture,4,37,0.9279279279279279
+4147183,General symptom,4,37,0.9084084084084084
+432875,Anemia due to chronic blood loss,4,36,0.9412698412698413
+374022,Hemiplegia,4,36,0.9095238095238095
+434622,Deficiency anemias,4,36,1.0
+201613,Chronic nonalcoholic liver disease,4,36,0.9634920634920635
+442774,Intermittent claudication,4,35,0.9663865546218487
+4156515,Malnutrition (calorie),4,34,0.9910873440285205
+198985,Primary malignant neoplasm of kidney,4,33,0.7935606060606061
+192357,Paralytic ileus,4,33,0.8882575757575758
+198124,Kidney disease,4,33,0.9772727272727273
+443238,Diabetic - poor control,4,32,0.9254032258064516
+4168666,Cerebral degeneration,4,32,0.9395161290322581
+4117779,Peripheral nerve disease,4,32,0.9616935483870968
+314171,Low blood pressure reading,4,32,0.969758064516129
+319845,Pulmonary valve disorder,4,31,0.967741935483871
+43020567,Air leaking from lung,4,31,0.978494623655914
+78236,Muscle atrophy,4,31,1.0
+4017107,Traumatic subdural hemorrhage,4,30,1.0
+252662,Tracheobronchial disorder,4,30,1.0
+438112,Neoplastic disease,4,29,0.9458128078817734
+193519,Impaired renal function disorder,4,29,1.0
+141253,Disorder of thyroid gland,4,28,1.0
+441830,Disorder of fluid AND/OR electrolyte,4,28,1.0
+442555,Breathing painful,4,28,1.0
+443465,Dysphagia as a late effect of cerebrovascular accident,4,28,0.9497354497354498
+316211,Acquired spondylolisthesis,4,27,1.0
+199075,Neurogenic bladder,4,27,0.9173789173789174
+197500,Primary malignant neoplasm of colon,4,26,0.963076923076923
+441415,Electromyogram abnormal,4,26,0.9846153846153847
+443702,Abnormal response to nerve stimulation,4,26,0.9846153846153847
+435752,Primary malignant neoplasm of duodenum,4,26,0.9938461538461538
+36715792,Acquired absence of breast,4,25,1.0
+44784105,Injury of free lower limb,4,25,0.9533333333333334
+437382,Urine finding,4,25,0.9333333333333333
+4187240,Disorder of aorta,4,25,1.0
+44782549,Disorder of vertebral column,4,25,1.0
+75128,Injury of chest wall,4,24,0.9239130434782609
+314971,Chronic respiratory failure,4,24,1.0
+201069,"Peptic ulcer without hemorrhage, without perforation AND without obstruction",4,24,1.0
+321107,Congenital insufficiency of aortic valve,4,24,1.0
+376690,Cerebral edema,4,23,0.9881422924901185
+318174,Phlebitis,4,23,1.0
+40483189,Arteriosclerosis of arterial coronary artery bypass graft,4,23,1.0
+193518,Intestinal obstruction,4,22,0.9393939393939394
+441202,Anaphylaxis,4,22,1.0
+4256889,Dissection of abdominal aorta,4,22,0.9913419913419913
+135772,Goiter,4,21,0.9666666666666667
+437264,Tobacco dependence syndrome,4,21,0.9428571428571428
+75065,Acquired deformity of spine,4,21,1.0
+201519,Primary malignant neoplasm of liver,4,20,1.0
+438698,"Malignant lymphoma of lymph nodes of head, face AND/OR neck",4,20,0.9105263157894737
+437233,Multiple myeloma,4,20,0.9789473684210527
+436148,Chronic duodenal ulcer with hemorrhage but without obstruction,4,20,1.0
+313324,Cheyne-Stokes respiration,4,20,1.0
+197018,Chronic gastric ulcer with hemorrhage but without obstruction,4,20,1.0
+379019,Conjunctivitis,4,20,1.0
+135030,Discoloration of skin,4,19,1.0
+196925,Secondary malignant neoplasm of retroperitoneum and peritoneum,4,19,1.0
+320115,Mitral insufficiency and aortic stenosis,4,19,1.0
+439408,Graft complications,4,19,1.0
+44782735,Chronic deep venous thrombosis of lower extremity,4,19,1.0
+432843,Primary malignant neoplasm of tail of pancreas,4,18,1.0
+40482236,Dehiscence of internal surgical wound,4,18,1.0
+194475,Hiccoughs,4,18,1.0
+201265,Disorder of spleen,4,18,1.0
+4130023,Atrophy of thyroid - acquired,4,17,1.0
+36716935,Acquired absence of cervix and uterus,4,17,0.9926470588235294
+76349,Primary malignant neoplasm of urinary system,4,17,0.9705882352941176
+4014781,Closed traumatic subdural hemorrhage,4,16,1.0
+4135466,Hemothorax,4,16,1.0
+40485490,Acute postthoracotomy pain syndrome,4,16,0.9833333333333333
+195851,"Gastric ulcer without hemorrhage, without perforation AND without obstruction",4,16,1.0
+37312105,Strain of rotator cuff of shoulder,4,16,1.0
+442287,Rest pain,4,16,1.0
+4027384,Inflammatory disorder,4,15,1.0
+316437,Cerebral atherosclerosis,4,15,1.0
+195498,Benign neoplasm of kidney,4,14,0.8461538461538461
+434303,Benign neoplasm of rectum and anal canal,4,14,1.0
+136184,Pruritus of skin,4,14,1.0
+320116,Acute pericarditis,4,14,1.0
+193688,Clostridioides difficile infection,4,14,0.9010989010989011
+46270376,Acute exacerbation of chronic obstructive bronchitis,4,13,1.0
+4043371,Inflammatory disorder of digestive tract,4,13,1.0
+441225,Primary malignant neoplasm of ampulla of Vater,4,12,1.0
+133424,Primary malignant neoplasm of thyroid gland,4,12,1.0
+4028073,Disorder of artery of neck,4,12,1.0
+373449,Drug-induced delirium,4,12,1.0
+194175,Left upper quadrant pain,4,12,1.0
+376229,Abnormal involuntary movement,4,12,1.0
+435775,Genetic anomaly of leukocyte,4,12,1.0
+378087,Secondary malignant neoplasm of brain and spinal cord,4,11,1.0
+444206,Arthropathy of pelvis,4,11,1.0
+195603,Vulval and/or perineal noninflammatory disorders,4,11,1.0
+198402,Neoplasm of uncertain behavior of kidney,4,11,1.0
+197950,Cellulitis and abscess of trunk,4,10,1.0
+438693,Primary malignant neoplasm of mediastinum,4,10,1.0
+434281,Aspergillosis,4,10,1.0
+438170,Acute myocardial infarction of inferior wall,4,10,1.0
+72715,Exostosis,4,10,0.9777777777777777
+4134162,Subarachnoid hemorrhage due to traumatic injury,4,10,1.0
+74719,Ulcer of foot,4,10,1.0
+81696,Closed fracture of acetabulum,4,10,1.0
+80593,Urinary complication,4,10,1.0
+198678,Intestinal infectious disease,4,10,1.0
+4066371,Cellulitis and abscess of lower leg,4,9,1.0
+80269,Mechanical complication of internal joint prosthesis,4,9,1.0
+376713,Cerebral hemorrhage,4,9,1.0
+196433,Aneurysm of iliac artery,4,9,1.0
+195480,Primary malignant neoplasm of renal pelvis,4,9,0.8888888888888888
+378165,Nystagmus,4,9,1.0
+4345578,Rhabdomyolysis,4,8,1.0
+40479594,Periprosthetic fracture,4,8,1.0
+77987,Respiratory finding of chest,4,8,1.0
+443460,Pathological fracture of femur,4,8,1.0
+432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",4,8,1.0
+4268622,Stricture of esophagus,4,8,1.0
+136834,Closed intertrochanteric fracture,4,7,1.0
+442256,Disorder of bursa of shoulder region,4,7,1.0
+75941,Closed fracture of one rib,4,7,1.0
+194997,Prostatitis,4,7,0.8571428571428571
+43530687,Dysarthria as late effects of cerebrovascular disease,4,7,1.0
+376647,Primary malignant neoplasm of soft tissues,4,6,1.0
+440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",4,6,1.0
+374028,Age related macular degeneration,4,6,1.0
+77025,Diverticulitis of colon,4,6,1.0
+440385,Obstructive hydrocephalus,4,6,1.0
+40481816,Infection by methicillin sensitive Staphylococcus aureus,4,6,1.0
+381001,Subjective visual disturbance,4,6,1.0
+380701,Diffuse Lewy body disease,4,6,1.0
+79768,Neoplasm of urinary system,4,6,1.0
+321689,Apnea,4,5,1.0
+377254,"Multi-infarct dementia, uncomplicated",4,5,1.0
+321483,Respiratory complication,4,5,1.0
+194385,Aneurysm of renal artery,4,5,1.0
+196726,Gallbladder calculus with acute cholecystitis and no obstruction,4,5,1.0
+438367,Primary malignant neoplasm of nasal cavity,4,4,1.0
+43530719,Incomplete paraplegia,4,4,1.0
+441875,Thoracic aortic aneurysm which has ruptured,4,4,1.0
+140090,Lesion of median nerve,4,4,1.0
+37018293,Inflammatory disorder of jaw region,4,4,1.0
+3661408,Pneumonia caused by SARS-CoV-2,4,4,1.0
+4288676,Acute and chronic cholecystitis,4,3,1.0
+4309912,Generally unwell,4,3,1.0
+132277,Neoplasm of uncertain behavior of endocrine glands and nervous system,4,3,1.0
+81893,Ulcerative colitis,4,3,1.0
+443788,Peritoneal adhesions with obstruction,4,3,1.0
+4185932,Ischemic heart disease,4,3,1.0
+435783,Schizophrenia,4,3,1.0
+29056,Sialoadenitis,4,3,1.0
+379769,Benign neoplasm of brain,4,3,1.0
+194992,Celiac disease,4,3,1.0
+135204,Mycosis fungoides of extranodal AND/OR solid organ site,4,2,1.0
+78200,Benign mammary dysplasia,4,2,1.0
+197593,Impaction of intestine,4,2,1.0
+4013604,Closed fracture lumbar vertebra,4,1,0.0
+193020,Incomplete emptying of bladder,4,1,0.0
+434494,Closed fracture of upper end of humerus,4,1,0.0
