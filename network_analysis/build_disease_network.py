@@ -1,8 +1,8 @@
 """
-Disease-Disease Co-occurrence Network Builder
-Builds weighted network where nodes=diseases and edges=co-occurrences in patients
+Build disease co-occurrence network from patient condition records.
+Nodes = diseases, Edges = co-occurrence in same patient (weighted by frequency).
+Filters edges with weight < 2 to focus on meaningful comorbidity patterns.
 """
-
 import pandas as pd
 import networkx as nx
 import os
@@ -11,10 +11,6 @@ import pickle
 from itertools import combinations
 from collections import defaultdict
 
-print("="*80)
-print("Building Disease Co-occurrence Network")
-print("="*80)
-
 # Load data
 COHORT_NAME = os.environ.get('COHORT_NAME', 'elderly_75plus')
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -22,13 +18,8 @@ PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
 os.makedirs(os.path.join(SCRIPT_DIR, COHORT_NAME), exist_ok=True)
 
 df_path = os.path.join(PROJECT_ROOT, f'output_{COHORT_NAME}', f'{COHORT_NAME}_conditions_with_names.csv')
-print(f"\nLoading: {df_path}")
 df = pd.read_csv(df_path, low_memory=False)
 df = df[df['concept_name'].notna()].copy()
-
-print(f"Loaded: {len(df):,} condition records")
-print(f"  Patients: {df['person_id'].nunique()}")
-print(f"  Diseases: {df['condition_concept_id'].nunique()}")
 
 # Create patient-disease relationships
 patient_diseases = df.groupby('person_id')['condition_concept_id'].apply(set).to_dict()
@@ -36,7 +27,6 @@ disease_names = df[['condition_concept_id', 'concept_name']].drop_duplicates()
 disease_name_map = dict(zip(disease_names['condition_concept_id'], disease_names['concept_name']))
 
 # Calculate disease co-occurrences
-print("\nCalculating co-occurrences...")
 cooccurrence = defaultdict(int)
 total_pairs = 0
 
@@ -47,49 +37,34 @@ for patient_id, diseases in patient_diseases.items():
         cooccurrence[(disease1, disease2)] += 1
         total_pairs += 1
 
-print(f"  Unique disease pairs: {len(cooccurrence):,}")
-print(f"  Total co-occurrences: {total_pairs:,}")
+print(f"Unique disease pairs: {len(cooccurrence):,}")
+print(f"Total co-occurrences: {total_pairs:,}")
 
 # Build network graph
-print("\nBuilding network...")
 G = nx.Graph()
 
 for disease_id, disease_name in disease_name_map.items():
     G.add_node(disease_id, name=disease_name)
 
-MIN_COOCCURRENCE = 2
 for (disease1, disease2), weight in cooccurrence.items():
-    if weight >= MIN_COOCCURRENCE:
+    if weight >= 2:
         G.add_edge(disease1, disease2, weight=weight)
 
-print(f"\nNetwork Statistics:")
-print(f"  Nodes: {G.number_of_nodes()}")
-print(f"  Edges: {G.number_of_edges()}")
-print(f"  Density: {nx.density(G):.4f}")
+print(f"Network Statistics:")
+print(f"Nodes: {G.number_of_nodes()}")
+print(f"Edges: {G.number_of_edges()}")
 
 # Get main component and compute metrics
-if not nx.is_connected(G):
-    largest_cc = max(nx.connected_components(G), key=len)
-    G_main = G.subgraph(largest_cc).copy()
-    print(f"\nMain component: {G_main.number_of_nodes()} nodes, {G_main.number_of_edges()} edges")
-else:
-    G_main = G
+largest_cc = max(nx.connected_components(G), key=len)
+G_main = G.subgraph(largest_cc).copy()
+print(f"Main component: {G_main.number_of_nodes()} nodes, {G_main.number_of_edges()} edges")
 
-print(f"\nNetwork Metrics:")
-print(f"  Average degree: {sum(dict(G_main.degree()).values()) / G_main.number_of_nodes():.2f}")
-
-try:
-    sample_size = min(1000, G_main.number_of_nodes())
-    sample_nodes = random.sample(list(G_main.nodes()), sample_size)
-    avg_clust = nx.average_clustering(G_main, nodes=sample_nodes)
-    print(f"  Avg clustering (sample {sample_size}): {avg_clust:.4f}")
-except Exception:
-    print("  Avg clustering: SKIPPED")
+print(f"Average degree: {sum(dict(G_main.degree()).values()) / G_main.number_of_nodes():.2f}")
 
 degree_centrality = nx.degree_centrality(G_main)
 top_hubs = sorted(degree_centrality.items(), key=lambda x: x[1], reverse=True)[:10]
 
-print(f"\nTop 10 Hub Diseases:")
+print(f"Top 10 Hub Diseases:")
 for disease_id, centrality in top_hubs:
     disease_name = disease_name_map[disease_id]
     degree = G_main.degree(disease_id)
@@ -134,6 +109,8 @@ for node in G_main.nodes():
 node_df = pd.DataFrame(node_list).sort_values('degree', ascending=False)
 node_df.to_csv(os.path.join(OUTPUT_DIR, 'disease_network_nodes.csv'), index=False)
 
-print(f"\n{'='*80}")
+print()
 print(f"Files saved to: network_analysis/{COHORT_NAME}/")
-print(f"{'='*80}")
+
+if __name__ == '__main__':
+    pass  # Script runs on import for this project

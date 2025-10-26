@@ -1,8 +1,3 @@
-"""
-CIS 4930 - Network Analysis Project 1
-Elderly Patient Disease Analysis (Age 75+)
-"""
-
 import pandas as pd
 import os
 
@@ -12,18 +7,12 @@ COHORT_NAME = 'elderly_75plus'
 OUTPUT_DIR = f"output_{COHORT_NAME}"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-print("="*80)
-print("CIS 4930 - Network Analysis Project 1")
-print("Elderly Patient Disease Analysis (Age 75+)")
-print("="*80)
-
 # Load data
-print("\nLoading data...")
 person_df = pd.read_csv('EHRShot_sampled_2000patients/sampled_person.csv')
 condition_df = pd.read_csv('EHRShot_sampled_2000patients/sampled_condition_occurrence.csv', low_memory=False)
 concept_df = pd.read_csv('EHRShot_sampled_2000patients/concept.csv', low_memory=False)
 
-# Create birthdate
+# Create birthdate (coerce errors to handle missing values)
 person_df['birthdate'] = pd.to_datetime(
     person_df[['year_of_birth', 'month_of_birth', 'day_of_birth']].rename(
         columns={'year_of_birth': 'year', 'month_of_birth': 'month', 'day_of_birth': 'day'}
@@ -41,12 +30,11 @@ merged_df['age_at_event'] = (merged_df['condition_start_DATE'] - merged_df['birt
 # Filter to elderly cohort
 elderly_df = merged_df[merged_df['age_at_event'] >= AGE_THRESHOLD].copy()
 
-print(f"\nCohort Statistics:")
-print(f"  Condition events: {len(elderly_df):,}")
-print(f"  Unique patients: {elderly_df['person_id'].nunique()}")
-print(f"  Age range: {elderly_df['age_at_event'].min():.1f} - {elderly_df['age_at_event'].max():.1f} years")
-print(f"  Mean age: {elderly_df['age_at_event'].mean():.1f} ± {elderly_df['age_at_event'].std():.1f} years")
-
+print(f"Statistics:")
+print(f"Condition events: {len(elderly_df):,}")
+print(f"Unique patients: {elderly_df['person_id'].nunique()}")
+print(f"Age range: {elderly_df['age_at_event'].min():.1f} - {elderly_df['age_at_event'].max():.1f} years")
+print()
 # Map condition IDs to disease names
 condition_concepts = concept_df[
     (concept_df['domain_id'] == 'Condition') & 
@@ -68,12 +56,11 @@ disease_counts = elderly_with_names.groupby(['condition_concept_id', 'concept_na
 disease_counts.columns = ['condition_concept_id', 'disease_name', 'num_patients', 'num_occurrences']
 disease_counts = disease_counts.sort_values('num_patients', ascending=False)
 
-print(f"\nDisease Statistics:")
-print(f"  Unique diseases: {len(disease_counts)}")
-print(f"\n  Top 10 Most Common Diseases:")
-print("  " + "-"*80)
+print(f"Unique diseases: {len(disease_counts)}\n")
+print(f"Top 10 Most Common Diseases:")
+
 for idx, row in disease_counts.head(10).iterrows():
-    disease = row['disease_name'] if pd.notna(row['disease_name']) else f"Unknown (ID: {row['condition_concept_id']})"
+    disease = row['disease_name'] 
     print(f"    {disease[:60]:60s} | {row['num_patients']:4d} pts | {row['num_occurrences']:5d} events")
 
 # Patient-disease summary
@@ -83,16 +70,12 @@ patient_disease_summary = elderly_with_names.groupby('person_id').agg({
 }).reset_index()
 patient_disease_summary.columns = ['person_id', 'num_unique_diseases', 'num_total_events']
 
-print(f"\nPatient Disease Statistics:")
-print(f"  Mean diseases per patient: {patient_disease_summary['num_unique_diseases'].mean():.1f}")
-print(f"  Median diseases per patient: {patient_disease_summary['num_unique_diseases'].median():.0f}")
-print(f"  Max diseases per patient: {patient_disease_summary['num_unique_diseases'].max():.0f}")
-
 # Save output files
 disease_counts.to_csv(os.path.join(OUTPUT_DIR, 'disease_prevalence_elderly.csv'), index=False)
 elderly_with_names.to_csv(os.path.join(OUTPUT_DIR, f'{COHORT_NAME}_conditions_with_names.csv'), index=False)
 patient_disease_summary.to_csv(os.path.join(OUTPUT_DIR, 'patient_disease_summary.csv'), index=False)
 
-print(f"\n{'='*80}")
 print(f"Output files saved to: {OUTPUT_DIR}/")
-print(f"{'='*80}")
+
+if __name__ == '__main__':
+    pass 
